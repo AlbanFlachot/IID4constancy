@@ -1,0 +1,12 @@
+# File extensions
+*.pt
+*.pth
+*.ckpt
+*.tar
+*.npz
+*.exr
+
+# Directories
+**/__pycache__/
+venv
+MODELING_and_ANALYSIS/testsets
