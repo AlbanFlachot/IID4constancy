@@ -17,7 +17,7 @@ parser.add_argument('--trainset', help='path to real images')
 parser.add_argument('--imList', help='path to image list')
 
 # Model
-parser.add_argument('--arch', default='IRNet', help='the architecture')
+parser.add_argument('--arch', default='AlbanNet', help='the architecture')
 parser.add_argument('--checkpointdir', default=None, help='the path to the checkpoint')
 
 # Paths
@@ -85,30 +85,12 @@ if os.path.exists(logfile):
 if torch.cuda.is_available() and not opt.cuda:
     print("WARNING: You have a CUDA device, so you should probably run with --cuda")
 
-if opt.arch == 'LiNet':
-    rootdir = 'LiNet/'
-    Net = utils_train.LiNet(dataset=opt.trainset, experiment=opt.experiment, imWidth0=opt.imWidth0,
-                            imHeight0=opt.imWidth0,
-                            cuda=opt.cuda, gpuID=opt.gpuId, envRow=opt.envRow, envCol=opt.envCol)
-elif opt.arch == 'IRNet':
-    rootdir = 'YuSmith/'
-    Net = utils_train.IRNet(dataset=opt.trainset, cuda=opt.cuda)
-
-elif opt.arch == 'AlbanNet_supervised':
+if opt.arch == 'AlbanNet':
     rootdir = 'LiNet/'
     Net = utils_train.AlbanNet_supervised(dataset=opt.trainset, batchsize=4, experiment=opt.experiment, imWidth0=256,
                                           imHeight0=256, cuda=opt.cuda, gpuID=opt.gpuId, nb_channels=opt.nb_channels,
                                           smoothing=opt.smoothing, lrStep=opt.lrStep, noRend=opt.noRend,
                                           noise=opt.noise)
-elif opt.arch == 'AlbanNet_unsupervised':
-    rootdir = 'LiNet/'
-    # import pdb; pdb.set_trace()
-    Net = utils_train.AlbanNet_unsupervised(dataset=opt.trainset, batchsize=2, experiment=opt.experiment, imWidth0=256,
-                                            imHeight0=256,
-                                            cuda=opt.cuda, gpuID=opt.gpuId, nb_channels=opt.nb_channels,
-                                            smoothing=opt.smoothing, lrStep=opt.lrStep)
-if opt.arch == 'AlbanNet_unsupervised':
-    writer = Net.train(opt.nbepochs, writer, contraW=opt.contraW, contraLoss=opt.contraLoss)
-else:
-    writer = Net.train(opt.nbepochs, writer)
+
+writer = Net.train(opt.nbepochs, writer)
 writer.close()

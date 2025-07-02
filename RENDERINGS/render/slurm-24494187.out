@@ -1,0 +1,2405 @@
+Failed to open dir (No such file or directory): /localscratch/nabla.24494187.0/gvfs/
+Blender 3.6.0 (hash c7fc78b81ecb built 2023-06-27 08:23:50)
+Fra:1 Mem:62.70M (Peak 63.79M) | Time:00:00.96 | Syncing Light
+Fra:1 Mem:62.70M (Peak 63.79M) | Time:00:00.96 | Syncing LightTransform
+Fra:1 Mem:62.70M (Peak 63.79M) | Time:00:00.96 | Syncing Camera
+Fra:1 Mem:62.70M (Peak 63.79M) | Time:00:00.96 | Syncing CameraTransform
+Fra:1 Mem:62.70M (Peak 63.79M) | Time:00:00.96 | Syncing Floor
+Fra:1 Mem:62.77M (Peak 63.79M) | Time:00:00.98 | Syncing LeftWall
+Fra:1 Mem:62.78M (Peak 63.79M) | Time:00:00.98 | Syncing RightWall
+Fra:1 Mem:62.79M (Peak 63.79M) | Time:00:00.98 | Syncing object_000001
+Fra:1 Mem:62.82M (Peak 63.79M) | Time:00:00.98 | Syncing object_000002
+Fra:1 Mem:62.85M (Peak 66.65M) | Time:00:01.09 | Syncing object_000003
+Fra:1 Mem:62.86M (Peak 66.66M) | Time:00:01.10 | Syncing object_000004
+Fra:1 Mem:62.90M (Peak 66.66M) | Time:00:01.11 | Syncing object_000005
+Fra:1 Mem:63.01M (Peak 66.66M) | Time:00:01.11 | Syncing object_000006
+Fra:1 Mem:63.05M (Peak 66.66M) | Time:00:01.11 | Syncing object_000007
+Fra:1 Mem:63.08M (Peak 66.66M) | Time:00:01.11 | Syncing object_000008
+Fra:1 Mem:63.12M (Peak 66.90M) | Time:00:01.13 | Syncing object_000009
+Fra:1 Mem:63.17M (Peak 66.94M) | Time:00:01.15 | Syncing object_000010
+Fra:1 Mem:63.29M (Peak 66.94M) | Time:00:01.15 | Syncing object_000011
+Fra:1 Mem:63.43M (Peak 67.10M) | Time:00:01.16 | Syncing object_000012
+Fra:1 Mem:63.44M (Peak 67.10M) | Time:00:01.16 | Syncing object_000013
+Fra:1 Mem:63.47M (Peak 67.10M) | Time:00:01.16 | Syncing object_000014
+Fra:1 Mem:63.49M (Peak 67.10M) | Time:00:01.16 | Rendering 1 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.22 | Rendering 26 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.25 | Rendering 51 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.27 | Rendering 76 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.30 | Rendering 101 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.32 | Rendering 126 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.35 | Rendering 151 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.38 | Rendering 176 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.40 | Rendering 201 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.43 | Rendering 226 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.45 | Rendering 251 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.48 | Rendering 276 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.50 | Rendering 301 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.52 | Rendering 326 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.55 | Rendering 351 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.57 | Rendering 376 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.60 | Rendering 401 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.62 | Rendering 426 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.64 | Rendering 451 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.67 | Rendering 476 / 500 samples
+Fra:1 Mem:63.04M (Peak 67.10M) | Time:00:01.69 | Rendering 500 / 500 samples
+Fra:1 Mem:62.25M (Peak 67.10M) | Time:00:01.70 | Compositing
+Fra:1 Mem:62.26M (Peak 67.10M) | Time:00:01.70 | Compositing | Determining resolution
+Fra:1 Mem:62.26M (Peak 67.10M) | Time:00:01.70 | Compositing | Initializing execution
+Fra:1 Mem:64.32M (Peak 67.10M) | Time:00:01.71 | Compositing | Tile 1-1
+Fra:1 Mem:64.32M (Peak 67.10M) | Time:00:01.72 | Compositing | Tile 1-1
+Fra:1 Mem:64.26M (Peak 67.10M) | Time:00:01.72 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image0_camera0_light1_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image0_camera0_light1_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image0_camera0_light1_rot0_alb1.exr'
+ Time: 00:01.77 (Saving: 00:00.00)
+
+Fra:1 Mem:62.89M (Peak 62.89M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:62.89M (Peak 62.89M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:62.89M (Peak 62.89M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:62.89M (Peak 62.89M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:62.89M (Peak 62.89M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:62.90M (Peak 62.90M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:62.91M (Peak 62.91M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:62.92M (Peak 62.92M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:62.95M (Peak 62.95M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:62.96M (Peak 62.96M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:62.97M (Peak 62.97M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:63.00M (Peak 63.00M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:63.10M (Peak 63.10M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:63.13M (Peak 63.13M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:63.15M (Peak 63.15M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:63.19M (Peak 63.19M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:63.23M (Peak 63.23M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:63.32M (Peak 63.32M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:63.45M (Peak 63.45M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:63.46M (Peak 63.46M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:63.48M (Peak 63.48M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:63.50M (Peak 63.50M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.07 | Rendering 51 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.10 | Rendering 76 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.15 | Rendering 126 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.18 | Rendering 151 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.23 | Rendering 201 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.26 | Rendering 226 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.29 | Rendering 251 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.31 | Rendering 276 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.34 | Rendering 301 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.37 | Rendering 326 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.39 | Rendering 351 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.42 | Rendering 376 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.45 | Rendering 401 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.47 | Rendering 426 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.50 | Rendering 451 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.53 | Rendering 476 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.55 | Rendering 500 / 500 samples
+Fra:1 Mem:62.25M (Peak 64.79M) | Time:00:00.56 | Compositing
+Fra:1 Mem:62.26M (Peak 64.79M) | Time:00:00.56 | Compositing | Determining resolution
+Fra:1 Mem:62.26M (Peak 64.79M) | Time:00:00.56 | Compositing | Initializing execution
+Fra:1 Mem:64.32M (Peak 64.79M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:64.32M (Peak 64.79M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:64.26M (Peak 64.79M) | Time:00:00.57 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image0_camera0_light2_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image0_camera0_light2_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image0_camera0_light2_rot0_alb1.exr'
+ Time: 00:00.61 (Saving: 00:00.00)
+
+Fra:1 Mem:62.89M (Peak 62.89M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:62.89M (Peak 62.89M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:62.89M (Peak 62.89M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:62.89M (Peak 62.89M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:62.89M (Peak 62.89M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:62.90M (Peak 62.90M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:62.91M (Peak 62.91M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:62.92M (Peak 62.92M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:62.95M (Peak 62.95M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:62.96M (Peak 62.96M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:62.97M (Peak 62.97M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:63.00M (Peak 63.00M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:63.10M (Peak 63.10M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:63.13M (Peak 63.13M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:63.15M (Peak 63.15M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:63.19M (Peak 63.19M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:63.23M (Peak 63.23M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:63.32M (Peak 63.32M) | Time:00:00.00 | Syncing object_000011
+Fra:1 Mem:63.45M (Peak 63.45M) | Time:00:00.00 | Syncing object_000012
+Fra:1 Mem:63.46M (Peak 63.46M) | Time:00:00.00 | Syncing object_000013
+Fra:1 Mem:63.48M (Peak 63.48M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:63.50M (Peak 63.50M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.07 | Rendering 51 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.10 | Rendering 76 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.15 | Rendering 126 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.18 | Rendering 151 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.23 | Rendering 201 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.26 | Rendering 226 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.28 | Rendering 251 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.31 | Rendering 276 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.34 | Rendering 301 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.37 | Rendering 326 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.39 | Rendering 351 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.42 | Rendering 376 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.45 | Rendering 401 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.47 | Rendering 426 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.50 | Rendering 451 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.52 | Rendering 476 / 500 samples
+Fra:1 Mem:63.04M (Peak 63.50M) | Time:00:00.55 | Rendering 500 / 500 samples
+Fra:1 Mem:62.25M (Peak 64.79M) | Time:00:00.55 | Compositing
+Fra:1 Mem:62.26M (Peak 64.79M) | Time:00:00.55 | Compositing | Determining resolution
+Fra:1 Mem:62.26M (Peak 64.79M) | Time:00:00.55 | Compositing | Initializing execution
+Fra:1 Mem:64.32M (Peak 64.79M) | Time:00:00.56 | Compositing | Tile 1-1
+Fra:1 Mem:64.32M (Peak 64.79M) | Time:00:00.56 | Compositing | Tile 1-1
+Fra:1 Mem:64.26M (Peak 64.79M) | Time:00:00.57 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image0_camera0_light3_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image0_camera0_light3_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image0_camera0_light3_rot0_alb1.exr'
+ Time: 00:00.58 (Saving: 00:00.00)
+
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:86.03M (Peak 86.03M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:86.04M (Peak 86.04M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:86.04M (Peak 86.04M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:86.05M (Peak 86.05M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:86.09M (Peak 89.87M) | Time:00:00.01 | Syncing object_000002
+Fra:1 Mem:86.10M (Peak 89.91M) | Time:00:00.01 | Syncing object_000003
+Fra:1 Mem:86.11M (Peak 89.91M) | Time:00:00.01 | Syncing object_000004
+Fra:1 Mem:86.14M (Peak 89.91M) | Time:00:00.01 | Syncing object_000005
+Fra:1 Mem:86.23M (Peak 89.91M) | Time:00:00.01 | Syncing object_000006
+Fra:1 Mem:86.26M (Peak 89.91M) | Time:00:00.01 | Syncing object_000007
+Fra:1 Mem:86.29M (Peak 90.08M) | Time:00:00.03 | Syncing object_000008
+Fra:1 Mem:86.32M (Peak 90.08M) | Time:00:00.03 | Syncing object_000009
+Fra:1 Mem:86.35M (Peak 90.08M) | Time:00:00.03 | Syncing object_000010
+Fra:1 Mem:86.44M (Peak 90.08M) | Time:00:00.03 | Syncing object_000011
+Fra:1 Mem:86.57M (Peak 90.26M) | Time:00:00.03 | Syncing object_000012
+Fra:1 Mem:86.58M (Peak 90.39M) | Time:00:00.04 | Syncing object_000013
+Fra:1 Mem:86.61M (Peak 90.39M) | Time:00:00.04 | Syncing object_000014
+Fra:1 Mem:86.63M (Peak 90.42M) | Time:00:00.04 | Rendering 1 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.12 | Rendering 26 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.16 | Rendering 51 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.20 | Rendering 76 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.23 | Rendering 101 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.26 | Rendering 126 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.28 | Rendering 151 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.31 | Rendering 176 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.33 | Rendering 201 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.36 | Rendering 226 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.39 | Rendering 251 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.42 | Rendering 276 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.45 | Rendering 301 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.48 | Rendering 326 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.50 | Rendering 351 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.53 | Rendering 376 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.55 | Rendering 401 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.58 | Rendering 426 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.61 | Rendering 451 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.63 | Rendering 476 / 500 samples
+Fra:1 Mem:86.17M (Peak 90.42M) | Time:00:00.66 | Rendering 500 / 500 samples
+Fra:1 Mem:85.39M (Peak 90.42M) | Time:00:00.67 | Compositing
+Fra:1 Mem:85.39M (Peak 90.42M) | Time:00:00.67 | Compositing | Determining resolution
+Fra:1 Mem:85.39M (Peak 90.42M) | Time:00:00.67 | Compositing | Initializing execution
+Fra:1 Mem:87.46M (Peak 90.42M) | Time:00:00.68 | Compositing | Tile 1-1
+Fra:1 Mem:87.46M (Peak 90.42M) | Time:00:00.69 | Compositing | Tile 1-1
+Fra:1 Mem:87.39M (Peak 90.42M) | Time:00:00.69 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image0_camera0_light1_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image0_camera0_light1_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image0_camera0_light1_rot0_alb2.exr'
+ Time: 00:00.72 (Saving: 00:00.00)
+
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:86.03M (Peak 86.03M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:86.04M (Peak 86.04M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:86.05M (Peak 86.05M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:86.06M (Peak 86.06M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:86.09M (Peak 86.09M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:86.11M (Peak 86.11M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:86.12M (Peak 86.12M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:86.14M (Peak 86.14M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:86.23M (Peak 86.23M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:86.26M (Peak 86.26M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:86.29M (Peak 86.29M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:86.32M (Peak 86.32M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:86.35M (Peak 86.35M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:86.45M (Peak 86.45M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:86.57M (Peak 86.57M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:86.58M (Peak 86.58M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:86.61M (Peak 86.61M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:86.63M (Peak 86.63M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.29 | Rendering 251 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.40 | Rendering 351 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.49 | Rendering 426 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.51 | Rendering 451 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.54 | Rendering 476 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.56 | Rendering 500 / 500 samples
+Fra:1 Mem:85.39M (Peak 87.92M) | Time:00:00.57 | Compositing
+Fra:1 Mem:85.39M (Peak 87.92M) | Time:00:00.57 | Compositing | Determining resolution
+Fra:1 Mem:85.39M (Peak 87.92M) | Time:00:00.57 | Compositing | Initializing execution
+Fra:1 Mem:87.46M (Peak 87.92M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:87.46M (Peak 87.92M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:87.39M (Peak 87.92M) | Time:00:00.59 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image0_camera0_light2_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image0_camera0_light2_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image0_camera0_light2_rot0_alb2.exr'
+ Time: 00:00.60 (Saving: 00:00.00)
+
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:86.02M (Peak 86.02M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:86.03M (Peak 86.03M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:86.04M (Peak 86.04M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:86.05M (Peak 86.05M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:86.06M (Peak 86.06M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:86.09M (Peak 86.09M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:86.11M (Peak 86.11M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:86.12M (Peak 86.12M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:86.14M (Peak 86.14M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:86.23M (Peak 86.23M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:86.26M (Peak 86.26M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:86.29M (Peak 86.29M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:86.32M (Peak 86.32M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:86.35M (Peak 86.35M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:86.45M (Peak 86.45M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:86.57M (Peak 86.57M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:86.58M (Peak 86.58M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:86.61M (Peak 86.61M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:86.63M (Peak 86.63M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.30 | Rendering 251 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.33 | Rendering 276 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.41 | Rendering 351 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.44 | Rendering 376 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.47 | Rendering 401 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.49 | Rendering 426 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.52 | Rendering 451 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.55 | Rendering 476 / 500 samples
+Fra:1 Mem:86.17M (Peak 86.63M) | Time:00:00.57 | Rendering 500 / 500 samples
+Fra:1 Mem:85.39M (Peak 87.92M) | Time:00:00.58 | Compositing
+Fra:1 Mem:85.39M (Peak 87.92M) | Time:00:00.58 | Compositing | Determining resolution
+Fra:1 Mem:85.39M (Peak 87.92M) | Time:00:00.58 | Compositing | Initializing execution
+Fra:1 Mem:87.46M (Peak 87.92M) | Time:00:00.59 | Compositing | Tile 1-1
+Fra:1 Mem:87.46M (Peak 87.92M) | Time:00:00.59 | Compositing | Tile 1-1
+Fra:1 Mem:87.39M (Peak 87.92M) | Time:00:00.59 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image0_camera0_light3_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image0_camera0_light3_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image0_camera0_light3_rot0_alb2.exr'
+ Time: 00:00.92 (Saving: 00:00.30)
+
+Fra:1 Mem:106.12M (Peak 106.12M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:106.12M (Peak 106.12M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:106.12M (Peak 106.12M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:106.12M (Peak 106.12M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:106.12M (Peak 106.12M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:106.13M (Peak 109.94M) | Time:00:00.01 | Syncing LeftWall
+Fra:1 Mem:106.14M (Peak 109.94M) | Time:00:00.01 | Syncing RightWall
+Fra:1 Mem:106.15M (Peak 109.94M) | Time:00:00.01 | Syncing object_000001
+Fra:1 Mem:106.20M (Peak 109.94M) | Time:00:00.02 | Syncing object_000002
+Fra:1 Mem:106.21M (Peak 109.94M) | Time:00:00.02 | Syncing object_000003
+Fra:1 Mem:106.22M (Peak 109.94M) | Time:00:00.02 | Syncing object_000004
+Fra:1 Mem:106.24M (Peak 109.94M) | Time:00:00.02 | Syncing object_000005
+Fra:1 Mem:106.37M (Peak 109.94M) | Time:00:00.02 | Syncing object_000006
+Fra:1 Mem:106.41M (Peak 109.94M) | Time:00:00.02 | Syncing object_000007
+Fra:1 Mem:106.43M (Peak 109.94M) | Time:00:00.03 | Syncing object_000008
+Fra:1 Mem:106.47M (Peak 110.25M) | Time:00:00.03 | Syncing object_000009
+Fra:1 Mem:106.51M (Peak 110.29M) | Time:00:00.03 | Syncing object_000010
+Fra:1 Mem:106.63M (Peak 110.32M) | Time:00:00.05 | Syncing object_000011
+Fra:1 Mem:106.76M (Peak 110.32M) | Time:00:00.05 | Syncing object_000012
+Fra:1 Mem:106.77M (Peak 110.32M) | Time:00:00.05 | Syncing object_000013
+Fra:1 Mem:106.80M (Peak 110.59M) | Time:00:00.05 | Syncing object_000014
+Fra:1 Mem:106.81M (Peak 110.59M) | Time:00:00.05 | Rendering 1 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.10 | Rendering 26 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.12 | Rendering 51 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.15 | Rendering 76 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.17 | Rendering 101 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.20 | Rendering 126 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.22 | Rendering 151 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.25 | Rendering 176 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.27 | Rendering 201 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.30 | Rendering 226 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.33 | Rendering 251 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.35 | Rendering 276 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.38 | Rendering 301 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.40 | Rendering 326 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.43 | Rendering 351 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.46 | Rendering 376 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.48 | Rendering 401 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.51 | Rendering 426 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.53 | Rendering 451 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.56 | Rendering 476 / 500 samples
+Fra:1 Mem:106.28M (Peak 110.59M) | Time:00:00.58 | Rendering 500 / 500 samples
+Fra:1 Mem:105.50M (Peak 110.59M) | Time:00:00.59 | Compositing
+Fra:1 Mem:105.50M (Peak 110.59M) | Time:00:00.59 | Compositing | Determining resolution
+Fra:1 Mem:105.50M (Peak 110.59M) | Time:00:00.59 | Compositing | Initializing execution
+Fra:1 Mem:107.56M (Peak 110.59M) | Time:00:00.60 | Compositing | Tile 1-1
+Fra:1 Mem:107.56M (Peak 110.59M) | Time:00:00.61 | Compositing | Tile 1-1
+Fra:1 Mem:107.50M (Peak 110.59M) | Time:00:00.61 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image0_camera0_light1_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image0_camera0_light1_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image0_camera0_light1_rot0_alb3.exr'
+ Time: 00:00.65 (Saving: 00:00.01)
+
+Fra:1 Mem:106.13M (Peak 106.13M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:106.13M (Peak 106.13M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:106.13M (Peak 106.13M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:106.13M (Peak 106.13M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:106.13M (Peak 106.13M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:106.14M (Peak 106.14M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:106.15M (Peak 106.15M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:106.16M (Peak 106.16M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:106.20M (Peak 106.20M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:106.21M (Peak 106.21M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:106.22M (Peak 106.22M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:106.25M (Peak 106.25M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:106.37M (Peak 106.37M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:106.41M (Peak 106.41M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:106.43M (Peak 106.43M) | Time:00:00.01 | Syncing object_000008
+Fra:1 Mem:106.47M (Peak 106.47M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:106.51M (Peak 106.51M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:106.63M (Peak 106.63M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:106.76M (Peak 106.76M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:106.77M (Peak 106.77M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:106.80M (Peak 106.80M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:106.81M (Peak 106.81M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.29 | Rendering 251 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.37 | Rendering 326 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.40 | Rendering 351 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.45 | Rendering 401 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.48 | Rendering 426 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.51 | Rendering 451 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.54 | Rendering 476 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.56 | Rendering 500 / 500 samples
+Fra:1 Mem:105.50M (Peak 108.03M) | Time:00:00.57 | Compositing
+Fra:1 Mem:105.50M (Peak 108.03M) | Time:00:00.57 | Compositing | Determining resolution
+Fra:1 Mem:105.50M (Peak 108.03M) | Time:00:00.57 | Compositing | Initializing execution
+Fra:1 Mem:107.56M (Peak 108.03M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:107.56M (Peak 108.03M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:107.50M (Peak 108.03M) | Time:00:00.58 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image0_camera0_light2_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image0_camera0_light2_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image0_camera0_light2_rot0_alb3.exr'
+ Time: 00:00.66 (Saving: 00:00.00)
+
+Fra:1 Mem:106.13M (Peak 106.13M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:106.13M (Peak 106.13M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:106.13M (Peak 106.13M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:106.13M (Peak 106.13M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:106.13M (Peak 106.13M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:106.14M (Peak 106.14M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:106.15M (Peak 106.15M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:106.16M (Peak 106.16M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:106.20M (Peak 106.20M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:106.21M (Peak 106.21M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:106.22M (Peak 106.22M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:106.25M (Peak 106.25M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:106.37M (Peak 106.37M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:106.41M (Peak 106.41M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:106.43M (Peak 106.43M) | Time:00:00.01 | Syncing object_000008
+Fra:1 Mem:106.47M (Peak 106.47M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:106.51M (Peak 106.51M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:106.63M (Peak 106.63M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:106.76M (Peak 106.76M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:106.77M (Peak 106.77M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:106.80M (Peak 106.80M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:106.81M (Peak 106.81M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.30 | Rendering 251 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.40 | Rendering 351 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.48 | Rendering 426 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.51 | Rendering 451 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.54 | Rendering 476 / 500 samples
+Fra:1 Mem:106.28M (Peak 106.81M) | Time:00:00.56 | Rendering 500 / 500 samples
+Fra:1 Mem:105.50M (Peak 108.03M) | Time:00:00.57 | Compositing
+Fra:1 Mem:105.50M (Peak 108.03M) | Time:00:00.57 | Compositing | Determining resolution
+Fra:1 Mem:105.50M (Peak 108.03M) | Time:00:00.57 | Compositing | Initializing execution
+Fra:1 Mem:107.56M (Peak 108.03M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:107.56M (Peak 108.03M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:107.50M (Peak 108.03M) | Time:00:00.58 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image0_camera0_light3_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image0_camera0_light3_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image0_camera0_light3_rot0_alb3.exr'
+ Time: 00:00.61 (Saving: 00:00.00)
+
+
+Blender quit
+Failed to open dir (No such file or directory): /localscratch/nabla.24494187.0/gvfs/
+Blender 3.6.0 (hash c7fc78b81ecb built 2023-06-27 08:23:50)
+Fra:1 Mem:63.00M (Peak 64.09M) | Time:00:00.10 | Syncing Light
+Fra:1 Mem:63.00M (Peak 64.09M) | Time:00:00.10 | Syncing LightTransform
+Fra:1 Mem:63.00M (Peak 64.09M) | Time:00:00.10 | Syncing Camera
+Fra:1 Mem:63.00M (Peak 64.09M) | Time:00:00.10 | Syncing CameraTransform
+Fra:1 Mem:63.00M (Peak 64.09M) | Time:00:00.10 | Syncing Floor
+Fra:1 Mem:63.04M (Peak 66.85M) | Time:00:00.17 | Syncing LeftWall
+Fra:1 Mem:63.09M (Peak 66.85M) | Time:00:00.19 | Syncing RightWall
+Fra:1 Mem:63.10M (Peak 66.85M) | Time:00:00.19 | Syncing object_000001
+Fra:1 Mem:63.24M (Peak 66.91M) | Time:00:00.21 | Syncing object_000002
+Fra:1 Mem:63.27M (Peak 66.91M) | Time:00:00.23 | Syncing object_000003
+Fra:1 Mem:63.38M (Peak 66.91M) | Time:00:00.23 | Syncing object_000004
+Fra:1 Mem:63.39M (Peak 66.91M) | Time:00:00.23 | Syncing object_000005
+Fra:1 Mem:63.42M (Peak 67.21M) | Time:00:00.24 | Syncing object_000006
+Fra:1 Mem:63.47M (Peak 67.24M) | Time:00:00.26 | Syncing object_000007
+Fra:1 Mem:63.48M (Peak 67.24M) | Time:00:00.26 | Syncing object_000008
+Fra:1 Mem:63.60M (Peak 67.24M) | Time:00:00.26 | Syncing object_000009
+Fra:1 Mem:63.62M (Peak 67.24M) | Time:00:00.27 | Syncing object_000010
+Fra:1 Mem:63.65M (Peak 67.24M) | Time:00:00.27 | Syncing object_000011
+Fra:1 Mem:63.68M (Peak 67.46M) | Time:00:00.28 | Syncing object_000012
+Fra:1 Mem:63.70M (Peak 67.46M) | Time:00:00.28 | Syncing object_000013
+Fra:1 Mem:63.73M (Peak 67.46M) | Time:00:00.28 | Syncing object_000014
+Fra:1 Mem:63.86M (Peak 67.55M) | Time:00:00.29 | Rendering 1 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.35 | Rendering 26 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.38 | Rendering 51 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.41 | Rendering 76 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.43 | Rendering 101 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.46 | Rendering 126 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.49 | Rendering 151 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.52 | Rendering 176 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.55 | Rendering 201 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.58 | Rendering 226 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.61 | Rendering 251 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.63 | Rendering 276 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.66 | Rendering 301 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.69 | Rendering 326 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.72 | Rendering 351 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.74 | Rendering 376 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.77 | Rendering 401 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.79 | Rendering 426 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.82 | Rendering 451 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.85 | Rendering 476 / 500 samples
+Fra:1 Mem:63.35M (Peak 67.55M) | Time:00:00.87 | Rendering 500 / 500 samples
+Fra:1 Mem:62.56M (Peak 67.55M) | Time:00:00.88 | Compositing
+Fra:1 Mem:62.56M (Peak 67.55M) | Time:00:00.88 | Compositing | Determining resolution
+Fra:1 Mem:62.56M (Peak 67.55M) | Time:00:00.88 | Compositing | Initializing execution
+Fra:1 Mem:64.63M (Peak 67.55M) | Time:00:00.89 | Compositing | Tile 1-1
+Fra:1 Mem:64.63M (Peak 67.55M) | Time:00:00.89 | Compositing | Tile 1-1
+Fra:1 Mem:64.57M (Peak 67.55M) | Time:00:00.90 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image1_camera0_light1_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image1_camera0_light1_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image1_camera0_light1_rot0_alb1.exr'
+ Time: 00:00.96 (Saving: 00:00.03)
+
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:63.21M (Peak 63.21M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:63.22M (Peak 63.22M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:63.23M (Peak 63.23M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:63.36M (Peak 63.36M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:63.37M (Peak 63.37M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:63.47M (Peak 63.47M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:63.48M (Peak 63.48M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:63.50M (Peak 63.50M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:63.54M (Peak 63.54M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:63.55M (Peak 63.55M) | Time:00:00.01 | Syncing object_000008
+Fra:1 Mem:63.65M (Peak 63.65M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:63.66M (Peak 63.66M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:63.68M (Peak 63.68M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:63.71M (Peak 63.71M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:63.73M (Peak 63.73M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:63.75M (Peak 63.75M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:63.87M (Peak 63.87M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.22 | Rendering 176 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.30 | Rendering 251 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.41 | Rendering 351 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.49 | Rendering 426 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.51 | Rendering 451 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.54 | Rendering 476 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.57 | Rendering 500 / 500 samples
+Fra:1 Mem:62.56M (Peak 65.10M) | Time:00:00.57 | Compositing
+Fra:1 Mem:62.57M (Peak 65.10M) | Time:00:00.57 | Compositing | Determining resolution
+Fra:1 Mem:62.57M (Peak 65.10M) | Time:00:00.57 | Compositing | Initializing execution
+Fra:1 Mem:64.63M (Peak 65.10M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:64.63M (Peak 65.10M) | Time:00:00.59 | Compositing | Tile 1-1
+Fra:1 Mem:64.57M (Peak 65.10M) | Time:00:00.59 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image1_camera0_light2_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image1_camera0_light2_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image1_camera0_light2_rot0_alb1.exr'
+ Time: 00:00.61 (Saving: 00:00.00)
+
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:63.21M (Peak 63.21M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:63.22M (Peak 63.22M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:63.23M (Peak 63.23M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:63.36M (Peak 63.36M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:63.37M (Peak 63.37M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:63.47M (Peak 63.47M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:63.48M (Peak 63.48M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:63.50M (Peak 63.50M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:63.54M (Peak 63.54M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:63.55M (Peak 63.55M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:63.65M (Peak 63.65M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:63.66M (Peak 63.66M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:63.68M (Peak 63.68M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:63.71M (Peak 63.71M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:63.73M (Peak 63.73M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:63.75M (Peak 63.75M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:63.87M (Peak 63.87M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.30 | Rendering 251 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.41 | Rendering 351 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.44 | Rendering 376 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.49 | Rendering 426 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.52 | Rendering 451 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.55 | Rendering 476 / 500 samples
+Fra:1 Mem:63.35M (Peak 63.87M) | Time:00:00.57 | Rendering 500 / 500 samples
+Fra:1 Mem:62.56M (Peak 65.10M) | Time:00:00.57 | Compositing
+Fra:1 Mem:62.57M (Peak 65.10M) | Time:00:00.58 | Compositing | Determining resolution
+Fra:1 Mem:62.57M (Peak 65.10M) | Time:00:00.58 | Compositing | Initializing execution
+Fra:1 Mem:64.63M (Peak 65.10M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:64.63M (Peak 65.10M) | Time:00:00.59 | Compositing | Tile 1-1
+Fra:1 Mem:64.57M (Peak 65.10M) | Time:00:00.59 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image1_camera0_light3_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image1_camera0_light3_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image1_camera0_light3_rot0_alb1.exr'
+ Time: 00:00.62 (Saving: 00:00.02)
+
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:74.59M (Peak 74.59M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:74.60M (Peak 74.60M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:74.61M (Peak 74.61M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:74.74M (Peak 78.43M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:74.75M (Peak 78.43M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:74.84M (Peak 78.43M) | Time:00:00.01 | Syncing object_000004
+Fra:1 Mem:74.86M (Peak 78.43M) | Time:00:00.01 | Syncing object_000005
+Fra:1 Mem:74.88M (Peak 78.43M) | Time:00:00.01 | Syncing object_000006
+Fra:1 Mem:74.91M (Peak 78.43M) | Time:00:00.01 | Syncing object_000007
+Fra:1 Mem:74.92M (Peak 78.43M) | Time:00:00.01 | Syncing object_000008
+Fra:1 Mem:75.01M (Peak 78.43M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:75.02M (Peak 78.43M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:75.05M (Peak 78.43M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:75.07M (Peak 78.86M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:75.10M (Peak 78.86M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:75.13M (Peak 78.92M) | Time:00:00.02 | Syncing object_000014
+Fra:1 Mem:75.24M (Peak 78.92M) | Time:00:00.02 | Rendering 1 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.06 | Rendering 26 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.09 | Rendering 51 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.22 | Rendering 176 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.30 | Rendering 251 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.37 | Rendering 326 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.40 | Rendering 351 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.45 | Rendering 401 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.48 | Rendering 426 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.51 | Rendering 451 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.53 | Rendering 476 / 500 samples
+Fra:1 Mem:74.73M (Peak 78.92M) | Time:00:00.56 | Rendering 500 / 500 samples
+Fra:1 Mem:73.94M (Peak 78.92M) | Time:00:00.57 | Compositing
+Fra:1 Mem:73.94M (Peak 78.92M) | Time:00:00.57 | Compositing | Determining resolution
+Fra:1 Mem:73.94M (Peak 78.92M) | Time:00:00.57 | Compositing | Initializing execution
+Fra:1 Mem:76.01M (Peak 78.92M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:76.01M (Peak 78.92M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:75.94M (Peak 78.92M) | Time:00:00.58 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image1_camera0_light1_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image1_camera0_light1_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image1_camera0_light1_rot0_alb2.exr'
+ Time: 00:00.77 (Saving: 00:00.02)
+
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:74.59M (Peak 74.59M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:74.60M (Peak 74.60M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:74.61M (Peak 74.61M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:74.74M (Peak 74.74M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:74.75M (Peak 74.75M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:74.85M (Peak 74.85M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:74.86M (Peak 74.86M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:74.88M (Peak 74.88M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:74.91M (Peak 74.91M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:74.92M (Peak 74.92M) | Time:00:00.01 | Syncing object_000008
+Fra:1 Mem:75.02M (Peak 75.02M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:75.03M (Peak 75.03M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:75.05M (Peak 75.05M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:75.07M (Peak 75.07M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:75.10M (Peak 75.10M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:75.13M (Peak 75.13M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:75.24M (Peak 75.24M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.06 | Rendering 26 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.09 | Rendering 51 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.22 | Rendering 176 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.29 | Rendering 251 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.37 | Rendering 326 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.40 | Rendering 351 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.42 | Rendering 376 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.45 | Rendering 401 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.48 | Rendering 426 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.50 | Rendering 451 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.53 | Rendering 476 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.56 | Rendering 500 / 500 samples
+Fra:1 Mem:73.94M (Peak 76.48M) | Time:00:00.56 | Compositing
+Fra:1 Mem:73.94M (Peak 76.48M) | Time:00:00.56 | Compositing | Determining resolution
+Fra:1 Mem:73.94M (Peak 76.48M) | Time:00:00.56 | Compositing | Initializing execution
+Fra:1 Mem:76.01M (Peak 76.48M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:76.01M (Peak 76.48M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:75.94M (Peak 76.48M) | Time:00:00.58 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image1_camera0_light2_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image1_camera0_light2_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image1_camera0_light2_rot0_alb2.exr'
+ Time: 00:00.61 (Saving: 00:00.02)
+
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:74.58M (Peak 74.58M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:74.59M (Peak 74.59M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:74.60M (Peak 74.60M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:74.61M (Peak 74.61M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:74.74M (Peak 74.74M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:74.75M (Peak 74.75M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:74.85M (Peak 74.85M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:74.86M (Peak 74.86M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:74.88M (Peak 74.88M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:74.91M (Peak 74.91M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:74.92M (Peak 74.92M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:75.02M (Peak 75.02M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:75.03M (Peak 75.03M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:75.05M (Peak 75.05M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:75.07M (Peak 75.07M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:75.10M (Peak 75.10M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:75.13M (Peak 75.13M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:75.24M (Peak 75.24M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.17 | Rendering 126 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.20 | Rendering 151 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.22 | Rendering 176 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.25 | Rendering 201 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.28 | Rendering 226 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.31 | Rendering 251 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.34 | Rendering 276 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.37 | Rendering 301 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.39 | Rendering 326 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.42 | Rendering 351 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.45 | Rendering 376 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.48 | Rendering 401 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.51 | Rendering 426 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.54 | Rendering 451 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.56 | Rendering 476 / 500 samples
+Fra:1 Mem:74.73M (Peak 75.24M) | Time:00:00.59 | Rendering 500 / 500 samples
+Fra:1 Mem:73.94M (Peak 76.48M) | Time:00:00.60 | Compositing
+Fra:1 Mem:73.94M (Peak 76.48M) | Time:00:00.60 | Compositing | Determining resolution
+Fra:1 Mem:73.94M (Peak 76.48M) | Time:00:00.60 | Compositing | Initializing execution
+Fra:1 Mem:76.01M (Peak 76.48M) | Time:00:00.60 | Compositing | Tile 1-1
+Fra:1 Mem:76.01M (Peak 76.48M) | Time:00:00.61 | Compositing | Tile 1-1
+Fra:1 Mem:75.94M (Peak 76.48M) | Time:00:00.61 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image1_camera0_light3_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image1_camera0_light3_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image1_camera0_light3_rot0_alb2.exr'
+ Time: 00:00.67 (Saving: 00:00.00)
+
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:98.10M (Peak 101.90M) | Time:00:00.01 | Syncing LeftWall
+Fra:1 Mem:98.10M (Peak 101.90M) | Time:00:00.01 | Syncing RightWall
+Fra:1 Mem:98.11M (Peak 101.92M) | Time:00:00.02 | Syncing object_000001
+Fra:1 Mem:98.21M (Peak 101.92M) | Time:00:00.02 | Syncing object_000002
+Fra:1 Mem:98.22M (Peak 101.92M) | Time:00:00.02 | Syncing object_000003
+Fra:1 Mem:98.35M (Peak 101.92M) | Time:00:00.02 | Syncing object_000004
+Fra:1 Mem:98.36M (Peak 101.92M) | Time:00:00.02 | Syncing object_000005
+Fra:1 Mem:98.38M (Peak 101.92M) | Time:00:00.02 | Syncing object_000006
+Fra:1 Mem:98.42M (Peak 102.20M) | Time:00:00.04 | Syncing object_000007
+Fra:1 Mem:98.43M (Peak 102.24M) | Time:00:00.04 | Syncing object_000008
+Fra:1 Mem:98.56M (Peak 102.25M) | Time:00:00.05 | Syncing object_000009
+Fra:1 Mem:98.57M (Peak 102.25M) | Time:00:00.05 | Syncing object_000010
+Fra:1 Mem:98.59M (Peak 102.25M) | Time:00:00.05 | Syncing object_000011
+Fra:1 Mem:98.62M (Peak 102.41M) | Time:00:00.06 | Syncing object_000012
+Fra:1 Mem:98.64M (Peak 102.41M) | Time:00:00.06 | Syncing object_000013
+Fra:1 Mem:98.67M (Peak 102.41M) | Time:00:00.06 | Syncing object_000014
+Fra:1 Mem:98.78M (Peak 102.41M) | Time:00:00.06 | Rendering 1 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.10 | Rendering 26 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.13 | Rendering 51 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.15 | Rendering 76 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.18 | Rendering 101 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.21 | Rendering 126 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.24 | Rendering 151 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.26 | Rendering 176 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.29 | Rendering 201 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.32 | Rendering 226 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.35 | Rendering 251 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.38 | Rendering 276 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.40 | Rendering 301 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.43 | Rendering 326 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.46 | Rendering 351 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.49 | Rendering 376 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.52 | Rendering 401 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.55 | Rendering 426 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.57 | Rendering 451 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.60 | Rendering 476 / 500 samples
+Fra:1 Mem:98.23M (Peak 102.41M) | Time:00:00.62 | Rendering 500 / 500 samples
+Fra:1 Mem:97.45M (Peak 102.41M) | Time:00:00.63 | Compositing
+Fra:1 Mem:97.45M (Peak 102.41M) | Time:00:00.63 | Compositing | Determining resolution
+Fra:1 Mem:97.45M (Peak 102.41M) | Time:00:00.63 | Compositing | Initializing execution
+Fra:1 Mem:99.52M (Peak 102.41M) | Time:00:00.64 | Compositing | Tile 1-1
+Fra:1 Mem:99.52M (Peak 102.41M) | Time:00:00.65 | Compositing | Tile 1-1
+Fra:1 Mem:99.45M (Peak 102.41M) | Time:00:00.65 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image1_camera0_light1_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image1_camera0_light1_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image1_camera0_light1_rot0_alb3.exr'
+ Time: 00:00.68 (Saving: 00:00.02)
+
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:98.09M (Peak 98.09M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:98.10M (Peak 98.10M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:98.11M (Peak 98.11M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:98.12M (Peak 98.12M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:98.21M (Peak 98.21M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:98.22M (Peak 98.22M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:98.35M (Peak 98.35M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:98.36M (Peak 98.36M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:98.38M (Peak 98.38M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:98.42M (Peak 98.42M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:98.43M (Peak 98.43M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:98.56M (Peak 98.56M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:98.57M (Peak 98.57M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:98.59M (Peak 98.59M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:98.62M (Peak 98.62M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:98.64M (Peak 98.64M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:98.67M (Peak 98.67M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:98.78M (Peak 98.78M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.17 | Rendering 126 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.20 | Rendering 151 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.22 | Rendering 176 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.25 | Rendering 201 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.28 | Rendering 226 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.31 | Rendering 251 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.34 | Rendering 276 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.37 | Rendering 301 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.40 | Rendering 326 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.42 | Rendering 351 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.45 | Rendering 376 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.48 | Rendering 401 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.51 | Rendering 426 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.54 | Rendering 451 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.57 | Rendering 476 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.59 | Rendering 500 / 500 samples
+Fra:1 Mem:97.45M (Peak 99.98M) | Time:00:00.60 | Compositing
+Fra:1 Mem:97.45M (Peak 99.98M) | Time:00:00.60 | Compositing | Determining resolution
+Fra:1 Mem:97.45M (Peak 99.98M) | Time:00:00.60 | Compositing | Initializing execution
+Fra:1 Mem:99.52M (Peak 99.98M) | Time:00:00.61 | Compositing | Tile 1-1
+Fra:1 Mem:99.52M (Peak 99.98M) | Time:00:00.61 | Compositing | Tile 1-1
+Fra:1 Mem:99.45M (Peak 99.98M) | Time:00:00.61 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image1_camera0_light2_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image1_camera0_light2_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image1_camera0_light2_rot0_alb3.exr'
+ Time: 00:00.69 (Saving: 00:00.05)
+
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:98.08M (Peak 98.08M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:98.09M (Peak 98.09M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:98.10M (Peak 98.10M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:98.11M (Peak 98.11M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:98.12M (Peak 98.12M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:98.21M (Peak 98.21M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:98.22M (Peak 98.22M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:98.35M (Peak 98.35M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:98.36M (Peak 98.36M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:98.38M (Peak 98.38M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:98.42M (Peak 98.42M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:98.43M (Peak 98.43M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:98.56M (Peak 98.56M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:98.57M (Peak 98.57M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:98.59M (Peak 98.59M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:98.62M (Peak 98.62M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:98.64M (Peak 98.64M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:98.67M (Peak 98.67M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:98.78M (Peak 98.78M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.06 | Rendering 26 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.09 | Rendering 51 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.17 | Rendering 126 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.22 | Rendering 176 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.25 | Rendering 201 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.30 | Rendering 251 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.33 | Rendering 276 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.41 | Rendering 351 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.49 | Rendering 426 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.51 | Rendering 451 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.54 | Rendering 476 / 500 samples
+Fra:1 Mem:98.23M (Peak 98.78M) | Time:00:00.57 | Rendering 500 / 500 samples
+Fra:1 Mem:97.45M (Peak 99.98M) | Time:00:00.57 | Compositing
+Fra:1 Mem:97.45M (Peak 99.98M) | Time:00:00.57 | Compositing | Determining resolution
+Fra:1 Mem:97.45M (Peak 99.98M) | Time:00:00.57 | Compositing | Initializing execution
+Fra:1 Mem:99.52M (Peak 99.98M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:99.52M (Peak 99.98M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:99.45M (Peak 99.98M) | Time:00:00.58 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image1_camera0_light3_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image1_camera0_light3_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image1_camera0_light3_rot0_alb3.exr'
+ Time: 00:00.60 (Saving: 00:00.00)
+
+
+Blender quit
+Failed to open dir (No such file or directory): /localscratch/nabla.24494187.0/gvfs/
+Blender 3.6.0 (hash c7fc78b81ecb built 2023-06-27 08:23:50)
+Fra:1 Mem:55.04M (Peak 56.13M) | Time:00:00.11 | Syncing Light
+Fra:1 Mem:55.04M (Peak 56.13M) | Time:00:00.11 | Syncing LightTransform
+Fra:1 Mem:55.04M (Peak 56.13M) | Time:00:00.11 | Syncing Camera
+Fra:1 Mem:55.04M (Peak 56.13M) | Time:00:00.11 | Syncing CameraTransform
+Fra:1 Mem:55.05M (Peak 56.13M) | Time:00:00.11 | Syncing Floor
+Fra:1 Mem:55.11M (Peak 56.13M) | Time:00:00.12 | Syncing LeftWall
+Fra:1 Mem:55.12M (Peak 56.13M) | Time:00:00.12 | Syncing RightWall
+Fra:1 Mem:55.13M (Peak 56.13M) | Time:00:00.12 | Syncing object_000001
+Fra:1 Mem:55.17M (Peak 58.96M) | Time:00:00.19 | Syncing object_000002
+Fra:1 Mem:55.22M (Peak 58.96M) | Time:00:00.20 | Syncing object_000003
+Fra:1 Mem:55.37M (Peak 59.04M) | Time:00:00.21 | Syncing object_000004
+Fra:1 Mem:55.38M (Peak 59.04M) | Time:00:00.22 | Syncing object_000005
+Fra:1 Mem:55.50M (Peak 59.04M) | Time:00:00.22 | Syncing object_000006
+Fra:1 Mem:55.51M (Peak 59.04M) | Time:00:00.22 | Syncing object_000007
+Fra:1 Mem:55.56M (Peak 59.04M) | Time:00:00.22 | Syncing object_000008
+Fra:1 Mem:55.68M (Peak 59.04M) | Time:00:00.22 | Syncing object_000009
+Fra:1 Mem:55.69M (Peak 59.04M) | Time:00:00.22 | Syncing object_000010
+Fra:1 Mem:55.72M (Peak 59.51M) | Time:00:00.24 | Syncing object_000011
+Fra:1 Mem:55.73M (Peak 59.54M) | Time:00:00.25 | Syncing object_000012
+Fra:1 Mem:55.74M (Peak 59.54M) | Time:00:00.25 | Syncing object_000013
+Fra:1 Mem:55.75M (Peak 59.54M) | Time:00:00.26 | Syncing object_000014
+Fra:1 Mem:55.89M (Peak 59.57M) | Time:00:00.26 | Rendering 1 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.31 | Rendering 26 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.34 | Rendering 51 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.36 | Rendering 76 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.39 | Rendering 101 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.41 | Rendering 126 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.43 | Rendering 151 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.46 | Rendering 176 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.48 | Rendering 201 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.51 | Rendering 226 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.53 | Rendering 251 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.55 | Rendering 276 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.58 | Rendering 301 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.60 | Rendering 326 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.63 | Rendering 351 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.65 | Rendering 376 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.68 | Rendering 401 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.70 | Rendering 426 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.73 | Rendering 451 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.75 | Rendering 476 / 500 samples
+Fra:1 Mem:55.39M (Peak 59.57M) | Time:00:00.77 | Rendering 500 / 500 samples
+Fra:1 Mem:54.60M (Peak 59.57M) | Time:00:00.78 | Compositing
+Fra:1 Mem:54.60M (Peak 59.57M) | Time:00:00.78 | Compositing | Determining resolution
+Fra:1 Mem:54.60M (Peak 59.57M) | Time:00:00.78 | Compositing | Initializing execution
+Fra:1 Mem:56.67M (Peak 59.57M) | Time:00:00.79 | Compositing | Tile 1-1
+Fra:1 Mem:56.67M (Peak 59.57M) | Time:00:00.80 | Compositing | Tile 1-1
+Fra:1 Mem:56.60M (Peak 59.57M) | Time:00:00.80 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image2_camera0_light1_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image2_camera0_light1_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image2_camera0_light1_rot0_alb1.exr'
+ Time: 00:00.89 (Saving: 00:00.00)
+
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:55.25M (Peak 55.25M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:55.26M (Peak 55.26M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:55.27M (Peak 55.27M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:55.30M (Peak 55.30M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:55.33M (Peak 55.33M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:55.46M (Peak 55.46M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:55.47M (Peak 55.47M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:55.57M (Peak 55.57M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:55.58M (Peak 55.58M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:55.61M (Peak 55.61M) | Time:00:00.01 | Syncing object_000008
+Fra:1 Mem:55.71M (Peak 55.71M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:55.72M (Peak 55.72M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:55.75M (Peak 55.75M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:55.76M (Peak 55.76M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:55.77M (Peak 55.77M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:55.78M (Peak 55.78M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:55.89M (Peak 55.89M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.17 | Rendering 126 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.20 | Rendering 151 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.23 | Rendering 176 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.26 | Rendering 201 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.29 | Rendering 226 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.32 | Rendering 251 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.35 | Rendering 276 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.38 | Rendering 301 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.40 | Rendering 326 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.43 | Rendering 351 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.46 | Rendering 376 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.49 | Rendering 401 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.52 | Rendering 426 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.55 | Rendering 451 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.58 | Rendering 476 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.61 | Rendering 500 / 500 samples
+Fra:1 Mem:54.60M (Peak 57.14M) | Time:00:00.61 | Compositing
+Fra:1 Mem:54.60M (Peak 57.14M) | Time:00:00.61 | Compositing | Determining resolution
+Fra:1 Mem:54.60M (Peak 57.14M) | Time:00:00.61 | Compositing | Initializing execution
+Fra:1 Mem:56.67M (Peak 57.14M) | Time:00:00.62 | Compositing | Tile 1-1
+Fra:1 Mem:56.67M (Peak 57.14M) | Time:00:00.63 | Compositing | Tile 1-1
+Fra:1 Mem:56.60M (Peak 57.14M) | Time:00:00.63 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image2_camera0_light2_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image2_camera0_light2_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image2_camera0_light2_rot0_alb1.exr'
+ Time: 00:00.64 (Saving: 00:00.00)
+
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:55.24M (Peak 55.24M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:55.25M (Peak 55.25M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:55.26M (Peak 55.26M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:55.27M (Peak 55.27M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:55.30M (Peak 55.30M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:55.33M (Peak 55.33M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:55.46M (Peak 55.46M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:55.47M (Peak 55.47M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:55.57M (Peak 55.57M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:55.58M (Peak 55.58M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:55.61M (Peak 55.61M) | Time:00:00.01 | Syncing object_000008
+Fra:1 Mem:55.71M (Peak 55.71M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:55.72M (Peak 55.72M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:55.75M (Peak 55.75M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:55.76M (Peak 55.76M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:55.77M (Peak 55.77M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:55.78M (Peak 55.78M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:55.89M (Peak 55.89M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.10 | Rendering 76 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.18 | Rendering 151 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.23 | Rendering 201 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.26 | Rendering 226 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.29 | Rendering 251 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.31 | Rendering 276 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.34 | Rendering 301 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.37 | Rendering 326 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.40 | Rendering 351 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.42 | Rendering 376 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.45 | Rendering 401 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.48 | Rendering 426 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.50 | Rendering 451 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.53 | Rendering 476 / 500 samples
+Fra:1 Mem:55.39M (Peak 55.89M) | Time:00:00.55 | Rendering 500 / 500 samples
+Fra:1 Mem:54.60M (Peak 57.14M) | Time:00:00.56 | Compositing
+Fra:1 Mem:54.60M (Peak 57.14M) | Time:00:00.56 | Compositing | Determining resolution
+Fra:1 Mem:54.60M (Peak 57.14M) | Time:00:00.56 | Compositing | Initializing execution
+Fra:1 Mem:56.67M (Peak 57.14M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:56.67M (Peak 57.14M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:56.60M (Peak 57.14M) | Time:00:00.57 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image2_camera0_light3_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image2_camera0_light3_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image2_camera0_light3_rot0_alb1.exr'
+ Time: 00:00.62 (Saving: 00:00.00)
+
+Fra:1 Mem:90.10M (Peak 90.10M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:90.10M (Peak 90.10M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:90.10M (Peak 90.10M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:90.10M (Peak 90.10M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:90.10M (Peak 90.10M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:90.12M (Peak 90.12M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:90.13M (Peak 93.94M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:90.16M (Peak 93.94M) | Time:00:00.01 | Syncing object_000002
+Fra:1 Mem:90.19M (Peak 93.97M) | Time:00:00.01 | Syncing object_000003
+Fra:1 Mem:90.29M (Peak 93.97M) | Time:00:00.01 | Syncing object_000004
+Fra:1 Mem:90.30M (Peak 94.11M) | Time:00:00.02 | Syncing object_000005
+Fra:1 Mem:90.43M (Peak 94.12M) | Time:00:00.03 | Syncing object_000006
+Fra:1 Mem:90.44M (Peak 94.25M) | Time:00:00.04 | Syncing object_000007
+Fra:1 Mem:90.48M (Peak 94.26M) | Time:00:00.04 | Syncing object_000008
+Fra:1 Mem:90.60M (Peak 94.29M) | Time:00:00.05 | Syncing object_000009
+Fra:1 Mem:90.62M (Peak 94.29M) | Time:00:00.05 | Syncing object_000010
+Fra:1 Mem:90.64M (Peak 94.43M) | Time:00:00.05 | Syncing object_000011
+Fra:1 Mem:90.65M (Peak 94.43M) | Time:00:00.05 | Syncing object_000012
+Fra:1 Mem:90.66M (Peak 94.43M) | Time:00:00.05 | Syncing object_000013
+Fra:1 Mem:90.67M (Peak 94.43M) | Time:00:00.05 | Syncing object_000014
+Fra:1 Mem:90.79M (Peak 94.49M) | Time:00:00.06 | Rendering 1 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.13 | Rendering 26 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.17 | Rendering 51 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.21 | Rendering 76 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.26 | Rendering 101 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.30 | Rendering 126 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.32 | Rendering 151 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.35 | Rendering 176 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.37 | Rendering 201 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.40 | Rendering 226 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.42 | Rendering 251 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.45 | Rendering 276 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.48 | Rendering 301 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.50 | Rendering 326 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.53 | Rendering 351 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.55 | Rendering 376 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.58 | Rendering 401 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.60 | Rendering 426 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.63 | Rendering 451 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.65 | Rendering 476 / 500 samples
+Fra:1 Mem:90.26M (Peak 94.49M) | Time:00:00.68 | Rendering 500 / 500 samples
+Fra:1 Mem:89.47M (Peak 94.49M) | Time:00:00.68 | Compositing
+Fra:1 Mem:89.47M (Peak 94.49M) | Time:00:00.68 | Compositing | Determining resolution
+Fra:1 Mem:89.47M (Peak 94.49M) | Time:00:00.68 | Compositing | Initializing execution
+Fra:1 Mem:91.54M (Peak 94.49M) | Time:00:00.69 | Compositing | Tile 1-1
+Fra:1 Mem:91.54M (Peak 94.49M) | Time:00:00.70 | Compositing | Tile 1-1
+Fra:1 Mem:91.47M (Peak 94.49M) | Time:00:00.70 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image2_camera0_light1_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image2_camera0_light1_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image2_camera0_light1_rot0_alb2.exr'
+ Time: 00:00.97 (Saving: 00:00.24)
+
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:90.12M (Peak 90.12M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:90.13M (Peak 90.13M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:90.14M (Peak 90.14M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:90.16M (Peak 90.16M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:90.20M (Peak 90.20M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:90.29M (Peak 90.29M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:90.30M (Peak 90.30M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:90.43M (Peak 90.43M) | Time:00:00.01 | Syncing object_000006
+Fra:1 Mem:90.44M (Peak 90.44M) | Time:00:00.01 | Syncing object_000007
+Fra:1 Mem:90.48M (Peak 90.48M) | Time:00:00.01 | Syncing object_000008
+Fra:1 Mem:90.61M (Peak 90.61M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:90.62M (Peak 90.62M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:90.64M (Peak 90.64M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:90.65M (Peak 90.65M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:90.66M (Peak 90.66M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:90.67M (Peak 90.67M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:90.79M (Peak 90.79M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.06 | Rendering 26 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.09 | Rendering 51 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.17 | Rendering 126 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.22 | Rendering 176 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.25 | Rendering 201 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.30 | Rendering 251 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.33 | Rendering 276 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.36 | Rendering 301 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.41 | Rendering 351 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.44 | Rendering 376 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.49 | Rendering 426 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.52 | Rendering 451 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.54 | Rendering 476 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.57 | Rendering 500 / 500 samples
+Fra:1 Mem:89.47M (Peak 92.01M) | Time:00:00.57 | Compositing
+Fra:1 Mem:89.47M (Peak 92.01M) | Time:00:00.57 | Compositing | Determining resolution
+Fra:1 Mem:89.47M (Peak 92.01M) | Time:00:00.57 | Compositing | Initializing execution
+Fra:1 Mem:91.54M (Peak 92.01M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:91.54M (Peak 92.01M) | Time:00:00.59 | Compositing | Tile 1-1
+Fra:1 Mem:91.47M (Peak 92.01M) | Time:00:00.59 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image2_camera0_light2_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image2_camera0_light2_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image2_camera0_light2_rot0_alb2.exr'
+ Time: 00:00.60 (Saving: 00:00.00)
+
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:90.11M (Peak 90.11M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:90.12M (Peak 90.12M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:90.13M (Peak 90.13M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:90.14M (Peak 90.14M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:90.16M (Peak 90.16M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:90.20M (Peak 90.20M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:90.29M (Peak 90.29M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:90.30M (Peak 90.30M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:90.43M (Peak 90.43M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:90.44M (Peak 90.44M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:90.48M (Peak 90.48M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:90.61M (Peak 90.61M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:90.62M (Peak 90.62M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:90.64M (Peak 90.64M) | Time:00:00.00 | Syncing object_000011
+Fra:1 Mem:90.65M (Peak 90.65M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:90.66M (Peak 90.66M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:90.67M (Peak 90.67M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:90.79M (Peak 90.79M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.07 | Rendering 51 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.10 | Rendering 76 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.12 | Rendering 101 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.15 | Rendering 126 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.18 | Rendering 151 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.20 | Rendering 176 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.23 | Rendering 201 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.26 | Rendering 226 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.28 | Rendering 251 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.31 | Rendering 276 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.34 | Rendering 301 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.36 | Rendering 326 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.39 | Rendering 351 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.42 | Rendering 376 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.44 | Rendering 401 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.47 | Rendering 426 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.50 | Rendering 451 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.52 | Rendering 476 / 500 samples
+Fra:1 Mem:90.26M (Peak 90.79M) | Time:00:00.54 | Rendering 500 / 500 samples
+Fra:1 Mem:89.47M (Peak 92.01M) | Time:00:00.55 | Compositing
+Fra:1 Mem:89.47M (Peak 92.01M) | Time:00:00.55 | Compositing | Determining resolution
+Fra:1 Mem:89.47M (Peak 92.01M) | Time:00:00.55 | Compositing | Initializing execution
+Fra:1 Mem:91.54M (Peak 92.01M) | Time:00:00.56 | Compositing | Tile 1-1
+Fra:1 Mem:91.54M (Peak 92.01M) | Time:00:00.56 | Compositing | Tile 1-1
+Fra:1 Mem:91.47M (Peak 92.01M) | Time:00:00.56 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image2_camera0_light3_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image2_camera0_light3_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image2_camera0_light3_rot0_alb2.exr'
+ Time: 00:00.60 (Saving: 00:00.03)
+
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:113.21M (Peak 113.21M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:113.21M (Peak 113.21M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:113.22M (Peak 113.22M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:113.23M (Peak 117.04M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:113.26M (Peak 117.04M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:113.29M (Peak 117.04M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:113.38M (Peak 117.04M) | Time:00:00.01 | Syncing object_000004
+Fra:1 Mem:113.39M (Peak 117.20M) | Time:00:00.01 | Syncing object_000005
+Fra:1 Mem:113.49M (Peak 117.20M) | Time:00:00.01 | Syncing object_000006
+Fra:1 Mem:113.50M (Peak 117.20M) | Time:00:00.01 | Syncing object_000007
+Fra:1 Mem:113.54M (Peak 117.32M) | Time:00:00.02 | Syncing object_000008
+Fra:1 Mem:113.67M (Peak 117.35M) | Time:00:00.03 | Syncing object_000009
+Fra:1 Mem:113.68M (Peak 117.35M) | Time:00:00.03 | Syncing object_000010
+Fra:1 Mem:113.70M (Peak 117.35M) | Time:00:00.03 | Syncing object_000011
+Fra:1 Mem:113.71M (Peak 117.35M) | Time:00:00.03 | Syncing object_000012
+Fra:1 Mem:113.73M (Peak 117.53M) | Time:00:00.03 | Syncing object_000013
+Fra:1 Mem:113.73M (Peak 117.53M) | Time:00:00.03 | Syncing object_000014
+Fra:1 Mem:113.85M (Peak 117.55M) | Time:00:00.04 | Rendering 1 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.07 | Rendering 26 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.10 | Rendering 51 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.12 | Rendering 76 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.17 | Rendering 126 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.22 | Rendering 176 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.29 | Rendering 251 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.31 | Rendering 276 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.34 | Rendering 301 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.36 | Rendering 326 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.39 | Rendering 351 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.41 | Rendering 376 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.44 | Rendering 401 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.46 | Rendering 426 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.48 | Rendering 451 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.51 | Rendering 476 / 500 samples
+Fra:1 Mem:113.35M (Peak 117.55M) | Time:00:00.53 | Rendering 500 / 500 samples
+Fra:1 Mem:112.57M (Peak 117.55M) | Time:00:00.54 | Compositing
+Fra:1 Mem:112.57M (Peak 117.55M) | Time:00:00.54 | Compositing | Determining resolution
+Fra:1 Mem:112.57M (Peak 117.55M) | Time:00:00.54 | Compositing | Initializing execution
+Fra:1 Mem:114.64M (Peak 117.55M) | Time:00:00.55 | Compositing | Tile 1-1
+Fra:1 Mem:114.64M (Peak 117.55M) | Time:00:00.55 | Compositing | Tile 1-1
+Fra:1 Mem:114.57M (Peak 117.55M) | Time:00:00.55 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image2_camera0_light1_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image2_camera0_light1_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image2_camera0_light1_rot0_alb3.exr'
+ Time: 00:00.61 (Saving: 00:00.00)
+
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:113.21M (Peak 113.21M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:113.22M (Peak 113.22M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:113.23M (Peak 113.23M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:113.24M (Peak 113.24M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:113.26M (Peak 113.26M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:113.29M (Peak 113.29M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:113.39M (Peak 113.39M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:113.40M (Peak 113.40M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:113.49M (Peak 113.49M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:113.50M (Peak 113.50M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:113.54M (Peak 113.54M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:113.67M (Peak 113.67M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:113.68M (Peak 113.68M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:113.70M (Peak 113.70M) | Time:00:00.00 | Syncing object_000011
+Fra:1 Mem:113.71M (Peak 113.71M) | Time:00:00.00 | Syncing object_000012
+Fra:1 Mem:113.73M (Peak 113.73M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:113.74M (Peak 113.74M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:113.85M (Peak 113.85M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.07 | Rendering 51 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.10 | Rendering 76 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.12 | Rendering 101 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.15 | Rendering 126 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.17 | Rendering 151 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.19 | Rendering 176 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.22 | Rendering 201 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.24 | Rendering 226 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.27 | Rendering 251 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.29 | Rendering 276 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.32 | Rendering 301 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.34 | Rendering 326 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.37 | Rendering 351 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.39 | Rendering 376 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.42 | Rendering 401 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.44 | Rendering 426 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.47 | Rendering 451 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.49 | Rendering 476 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.52 | Rendering 500 / 500 samples
+Fra:1 Mem:112.57M (Peak 115.10M) | Time:00:00.52 | Compositing
+Fra:1 Mem:112.57M (Peak 115.10M) | Time:00:00.52 | Compositing | Determining resolution
+Fra:1 Mem:112.57M (Peak 115.10M) | Time:00:00.52 | Compositing | Initializing execution
+Fra:1 Mem:114.64M (Peak 115.10M) | Time:00:00.53 | Compositing | Tile 1-1
+Fra:1 Mem:114.64M (Peak 115.10M) | Time:00:00.54 | Compositing | Tile 1-1
+Fra:1 Mem:114.57M (Peak 115.10M) | Time:00:00.54 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image2_camera0_light2_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image2_camera0_light2_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image2_camera0_light2_rot0_alb3.exr'
+ Time: 00:00.77 (Saving: 00:00.00)
+
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:113.21M (Peak 113.21M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:113.22M (Peak 113.22M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:113.23M (Peak 113.23M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:113.24M (Peak 113.24M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:113.26M (Peak 113.26M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:113.29M (Peak 113.29M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:113.39M (Peak 113.39M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:113.40M (Peak 113.40M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:113.49M (Peak 113.49M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:113.50M (Peak 113.50M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:113.54M (Peak 113.54M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:113.67M (Peak 113.67M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:113.68M (Peak 113.68M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:113.70M (Peak 113.70M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:113.71M (Peak 113.71M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:113.73M (Peak 113.73M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:113.74M (Peak 113.74M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:113.85M (Peak 113.85M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.15 | Rendering 126 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.18 | Rendering 151 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.20 | Rendering 176 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.23 | Rendering 201 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.25 | Rendering 226 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.28 | Rendering 251 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.30 | Rendering 276 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.33 | Rendering 301 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.35 | Rendering 326 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.38 | Rendering 351 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.40 | Rendering 376 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.43 | Rendering 401 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.45 | Rendering 426 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.48 | Rendering 451 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.50 | Rendering 476 / 500 samples
+Fra:1 Mem:113.35M (Peak 113.85M) | Time:00:00.53 | Rendering 500 / 500 samples
+Fra:1 Mem:112.57M (Peak 115.10M) | Time:00:00.53 | Compositing
+Fra:1 Mem:112.57M (Peak 115.10M) | Time:00:00.53 | Compositing | Determining resolution
+Fra:1 Mem:112.57M (Peak 115.10M) | Time:00:00.53 | Compositing | Initializing execution
+Fra:1 Mem:114.64M (Peak 115.10M) | Time:00:00.54 | Compositing | Tile 1-1
+Fra:1 Mem:114.64M (Peak 115.10M) | Time:00:00.54 | Compositing | Tile 1-1
+Fra:1 Mem:114.57M (Peak 115.10M) | Time:00:00.55 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image2_camera0_light3_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image2_camera0_light3_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image2_camera0_light3_rot0_alb3.exr'
+ Time: 00:00.72 (Saving: 00:00.00)
+
+
+Blender quit
+Failed to open dir (No such file or directory): /localscratch/nabla.24494187.0/gvfs/
+Blender 3.6.0 (hash c7fc78b81ecb built 2023-06-27 08:23:50)
+Fra:1 Mem:43.61M (Peak 44.70M) | Time:00:00.11 | Syncing Light
+Fra:1 Mem:43.61M (Peak 44.70M) | Time:00:00.12 | Syncing LightTransform
+Fra:1 Mem:43.61M (Peak 44.70M) | Time:00:00.12 | Syncing Camera
+Fra:1 Mem:43.61M (Peak 44.70M) | Time:00:00.12 | Syncing CameraTransform
+Fra:1 Mem:43.62M (Peak 44.70M) | Time:00:00.12 | Syncing Floor
+Fra:1 Mem:43.68M (Peak 44.70M) | Time:00:00.13 | Syncing LeftWall
+Fra:1 Mem:43.69M (Peak 44.70M) | Time:00:00.13 | Syncing RightWall
+Fra:1 Mem:43.70M (Peak 44.70M) | Time:00:00.13 | Syncing object_000001
+Fra:1 Mem:43.73M (Peak 44.70M) | Time:00:00.13 | Syncing object_000002
+Fra:1 Mem:43.77M (Peak 47.55M) | Time:00:00.19 | Syncing object_000003
+Fra:1 Mem:43.78M (Peak 47.55M) | Time:00:00.19 | Syncing object_000004
+Fra:1 Mem:43.79M (Peak 47.55M) | Time:00:00.19 | Syncing object_000005
+Fra:1 Mem:43.90M (Peak 47.55M) | Time:00:00.19 | Syncing object_000006
+Fra:1 Mem:44.05M (Peak 47.72M) | Time:00:00.21 | Syncing object_000007
+Fra:1 Mem:44.06M (Peak 47.87M) | Time:00:00.22 | Syncing object_000008
+Fra:1 Mem:44.11M (Peak 47.87M) | Time:00:00.23 | Syncing object_000009
+Fra:1 Mem:44.14M (Peak 47.87M) | Time:00:00.23 | Syncing object_000010
+Fra:1 Mem:44.29M (Peak 47.96M) | Time:00:00.24 | Syncing object_000011
+Fra:1 Mem:44.32M (Peak 47.96M) | Time:00:00.24 | Syncing object_000012
+Fra:1 Mem:44.44M (Peak 47.96M) | Time:00:00.24 | Syncing object_000013
+Fra:1 Mem:44.47M (Peak 48.26M) | Time:00:00.25 | Syncing object_000014
+Fra:1 Mem:44.47M (Peak 48.26M) | Time:00:00.25 | Rendering 1 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.30 | Rendering 26 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.33 | Rendering 51 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.35 | Rendering 76 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.37 | Rendering 101 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.40 | Rendering 126 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.42 | Rendering 151 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.45 | Rendering 176 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.47 | Rendering 201 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.49 | Rendering 226 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.52 | Rendering 251 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.54 | Rendering 276 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.57 | Rendering 301 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.59 | Rendering 326 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.62 | Rendering 351 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.64 | Rendering 376 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.67 | Rendering 401 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.69 | Rendering 426 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.72 | Rendering 451 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.74 | Rendering 476 / 500 samples
+Fra:1 Mem:43.95M (Peak 48.26M) | Time:00:00.77 | Rendering 500 / 500 samples
+Fra:1 Mem:43.17M (Peak 48.26M) | Time:00:00.77 | Compositing
+Fra:1 Mem:43.17M (Peak 48.26M) | Time:00:00.77 | Compositing | Determining resolution
+Fra:1 Mem:43.17M (Peak 48.26M) | Time:00:00.77 | Compositing | Initializing execution
+Fra:1 Mem:45.24M (Peak 48.26M) | Time:00:00.78 | Compositing | Tile 1-1
+Fra:1 Mem:45.24M (Peak 48.26M) | Time:00:00.79 | Compositing | Tile 1-1
+Fra:1 Mem:45.17M (Peak 48.26M) | Time:00:00.79 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image3_camera0_light1_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image3_camera0_light1_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image3_camera0_light1_rot0_alb1.exr'
+ Time: 00:00.82 (Saving: 00:00.00)
+
+Fra:1 Mem:43.80M (Peak 43.80M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:43.80M (Peak 43.80M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:43.80M (Peak 43.80M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:43.80M (Peak 43.80M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:43.81M (Peak 43.81M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:43.82M (Peak 43.82M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:43.83M (Peak 43.83M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:43.84M (Peak 43.84M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:43.86M (Peak 43.86M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:43.88M (Peak 43.88M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:43.89M (Peak 43.89M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:43.90M (Peak 43.90M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:44.00M (Peak 44.00M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:44.13M (Peak 44.13M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:44.14M (Peak 44.14M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:44.18M (Peak 44.18M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:44.20M (Peak 44.20M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:44.32M (Peak 44.32M) | Time:00:00.00 | Syncing object_000011
+Fra:1 Mem:44.35M (Peak 44.35M) | Time:00:00.00 | Syncing object_000012
+Fra:1 Mem:44.45M (Peak 44.45M) | Time:00:00.00 | Syncing object_000013
+Fra:1 Mem:44.48M (Peak 44.48M) | Time:00:00.00 | Syncing object_000014
+Fra:1 Mem:44.47M (Peak 44.48M) | Time:00:00.00 | Rendering 1 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.04 | Rendering 26 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.06 | Rendering 51 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.09 | Rendering 76 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.11 | Rendering 101 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.13 | Rendering 126 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.16 | Rendering 151 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.18 | Rendering 176 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.21 | Rendering 201 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.23 | Rendering 226 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.26 | Rendering 251 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.28 | Rendering 276 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.31 | Rendering 301 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.33 | Rendering 326 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.36 | Rendering 351 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.38 | Rendering 376 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.41 | Rendering 401 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.43 | Rendering 426 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.45 | Rendering 451 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.48 | Rendering 476 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.50 | Rendering 500 / 500 samples
+Fra:1 Mem:43.17M (Peak 45.70M) | Time:00:00.51 | Compositing
+Fra:1 Mem:43.17M (Peak 45.70M) | Time:00:00.51 | Compositing | Determining resolution
+Fra:1 Mem:43.17M (Peak 45.70M) | Time:00:00.51 | Compositing | Initializing execution
+Fra:1 Mem:45.24M (Peak 45.70M) | Time:00:00.52 | Compositing | Tile 1-1
+Fra:1 Mem:45.24M (Peak 45.70M) | Time:00:00.52 | Compositing | Tile 1-1
+Fra:1 Mem:45.17M (Peak 45.70M) | Time:00:00.52 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image3_camera0_light2_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image3_camera0_light2_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image3_camera0_light2_rot0_alb1.exr'
+ Time: 00:00.54 (Saving: 00:00.00)
+
+Fra:1 Mem:43.80M (Peak 43.80M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:43.80M (Peak 43.80M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:43.80M (Peak 43.80M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:43.80M (Peak 43.80M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:43.81M (Peak 43.81M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:43.82M (Peak 43.82M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:43.83M (Peak 43.83M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:43.84M (Peak 43.84M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:43.86M (Peak 43.86M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:43.88M (Peak 43.88M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:43.89M (Peak 43.89M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:43.90M (Peak 43.90M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:44.00M (Peak 44.00M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:44.13M (Peak 44.13M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:44.14M (Peak 44.14M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:44.18M (Peak 44.18M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:44.20M (Peak 44.20M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:44.32M (Peak 44.32M) | Time:00:00.00 | Syncing object_000011
+Fra:1 Mem:44.35M (Peak 44.35M) | Time:00:00.00 | Syncing object_000012
+Fra:1 Mem:44.45M (Peak 44.45M) | Time:00:00.00 | Syncing object_000013
+Fra:1 Mem:44.48M (Peak 44.48M) | Time:00:00.00 | Syncing object_000014
+Fra:1 Mem:44.47M (Peak 44.48M) | Time:00:00.00 | Rendering 1 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.04 | Rendering 26 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.06 | Rendering 51 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.09 | Rendering 76 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.11 | Rendering 101 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.13 | Rendering 126 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.16 | Rendering 151 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.18 | Rendering 176 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.21 | Rendering 201 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.23 | Rendering 226 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.26 | Rendering 251 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.28 | Rendering 276 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.31 | Rendering 301 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.33 | Rendering 326 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.35 | Rendering 351 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.38 | Rendering 376 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.40 | Rendering 401 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.43 | Rendering 426 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.45 | Rendering 451 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.48 | Rendering 476 / 500 samples
+Fra:1 Mem:43.95M (Peak 44.48M) | Time:00:00.50 | Rendering 500 / 500 samples
+Fra:1 Mem:43.17M (Peak 45.70M) | Time:00:00.51 | Compositing
+Fra:1 Mem:43.17M (Peak 45.70M) | Time:00:00.51 | Compositing | Determining resolution
+Fra:1 Mem:43.17M (Peak 45.70M) | Time:00:00.51 | Compositing | Initializing execution
+Fra:1 Mem:45.24M (Peak 45.70M) | Time:00:00.52 | Compositing | Tile 1-1
+Fra:1 Mem:45.24M (Peak 45.70M) | Time:00:00.52 | Compositing | Tile 1-1
+Fra:1 Mem:45.17M (Peak 45.70M) | Time:00:00.52 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image3_camera0_light3_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image3_camera0_light3_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image3_camera0_light3_rot0_alb1.exr'
+ Time: 00:00.53 (Saving: 00:00.00)
+
+Fra:1 Mem:63.16M (Peak 63.16M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:63.16M (Peak 63.16M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:63.16M (Peak 63.16M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:63.16M (Peak 63.16M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:63.18M (Peak 66.98M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:63.19M (Peak 66.99M) | Time:00:00.01 | Syncing RightWall
+Fra:1 Mem:63.20M (Peak 66.99M) | Time:00:00.01 | Syncing object_000001
+Fra:1 Mem:63.22M (Peak 66.99M) | Time:00:00.01 | Syncing object_000002
+Fra:1 Mem:63.24M (Peak 66.99M) | Time:00:00.01 | Syncing object_000003
+Fra:1 Mem:63.25M (Peak 66.99M) | Time:00:00.01 | Syncing object_000004
+Fra:1 Mem:63.26M (Peak 67.07M) | Time:00:00.02 | Syncing object_000005
+Fra:1 Mem:63.39M (Peak 67.07M) | Time:00:00.02 | Syncing object_000006
+Fra:1 Mem:63.48M (Peak 67.07M) | Time:00:00.02 | Syncing object_000007
+Fra:1 Mem:63.50M (Peak 67.30M) | Time:00:00.03 | Syncing object_000008
+Fra:1 Mem:63.53M (Peak 67.30M) | Time:00:00.03 | Syncing object_000009
+Fra:1 Mem:63.55M (Peak 67.30M) | Time:00:00.03 | Syncing object_000010
+Fra:1 Mem:63.64M (Peak 67.30M) | Time:00:00.03 | Syncing object_000011
+Fra:1 Mem:63.67M (Peak 67.30M) | Time:00:00.03 | Syncing object_000012
+Fra:1 Mem:63.81M (Peak 67.30M) | Time:00:00.05 | Syncing object_000013
+Fra:1 Mem:63.84M (Peak 67.63M) | Time:00:00.05 | Syncing object_000014
+Fra:1 Mem:63.83M (Peak 67.63M) | Time:00:00.05 | Rendering 1 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.09 | Rendering 26 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.12 | Rendering 51 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.14 | Rendering 76 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.17 | Rendering 101 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.19 | Rendering 126 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.21 | Rendering 151 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.24 | Rendering 176 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.26 | Rendering 201 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.29 | Rendering 226 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.31 | Rendering 251 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.34 | Rendering 276 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.36 | Rendering 301 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.41 | Rendering 351 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.48 | Rendering 426 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.51 | Rendering 451 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.53 | Rendering 476 / 500 samples
+Fra:1 Mem:63.32M (Peak 67.63M) | Time:00:00.56 | Rendering 500 / 500 samples
+Fra:1 Mem:62.54M (Peak 67.63M) | Time:00:00.56 | Compositing
+Fra:1 Mem:62.54M (Peak 67.63M) | Time:00:00.56 | Compositing | Determining resolution
+Fra:1 Mem:62.54M (Peak 67.63M) | Time:00:00.56 | Compositing | Initializing execution
+Fra:1 Mem:64.60M (Peak 67.63M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:64.60M (Peak 67.63M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:64.54M (Peak 67.63M) | Time:00:00.58 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image3_camera0_light1_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image3_camera0_light1_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image3_camera0_light1_rot0_alb2.exr'
+ Time: 00:00.59 (Saving: 00:00.00)
+
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:63.18M (Peak 63.18M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:63.19M (Peak 63.19M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:63.21M (Peak 63.21M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:63.23M (Peak 63.23M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:63.25M (Peak 63.25M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:63.26M (Peak 63.26M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:63.27M (Peak 63.27M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:63.40M (Peak 63.40M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:63.50M (Peak 63.50M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:63.51M (Peak 63.51M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:63.54M (Peak 63.54M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:63.56M (Peak 63.56M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:63.65M (Peak 63.65M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:63.68M (Peak 63.68M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:63.81M (Peak 63.81M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:63.84M (Peak 63.84M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:63.83M (Peak 63.84M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.07 | Rendering 51 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.10 | Rendering 76 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.12 | Rendering 101 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.15 | Rendering 126 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.18 | Rendering 151 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.20 | Rendering 176 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.23 | Rendering 201 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.25 | Rendering 226 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.28 | Rendering 251 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.30 | Rendering 276 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.33 | Rendering 301 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.36 | Rendering 326 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.38 | Rendering 351 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.41 | Rendering 376 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.43 | Rendering 401 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.46 | Rendering 426 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.49 | Rendering 451 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.51 | Rendering 476 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.54 | Rendering 500 / 500 samples
+Fra:1 Mem:62.54M (Peak 65.07M) | Time:00:00.54 | Compositing
+Fra:1 Mem:62.54M (Peak 65.07M) | Time:00:00.54 | Compositing | Determining resolution
+Fra:1 Mem:62.54M (Peak 65.07M) | Time:00:00.54 | Compositing | Initializing execution
+Fra:1 Mem:64.60M (Peak 65.07M) | Time:00:00.55 | Compositing | Tile 1-1
+Fra:1 Mem:64.60M (Peak 65.07M) | Time:00:00.56 | Compositing | Tile 1-1
+Fra:1 Mem:64.54M (Peak 65.07M) | Time:00:00.56 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image3_camera0_light2_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image3_camera0_light2_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image3_camera0_light2_rot0_alb2.exr'
+ Time: 00:00.57 (Saving: 00:00.00)
+
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:63.17M (Peak 63.17M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:63.18M (Peak 63.18M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:63.19M (Peak 63.19M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:63.20M (Peak 63.20M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:63.21M (Peak 63.21M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:63.23M (Peak 63.23M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:63.25M (Peak 63.25M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:63.26M (Peak 63.26M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:63.27M (Peak 63.27M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:63.40M (Peak 63.40M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:63.50M (Peak 63.50M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:63.51M (Peak 63.51M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:63.54M (Peak 63.54M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:63.56M (Peak 63.56M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:63.65M (Peak 63.65M) | Time:00:00.00 | Syncing object_000011
+Fra:1 Mem:63.68M (Peak 63.68M) | Time:00:00.00 | Syncing object_000012
+Fra:1 Mem:63.81M (Peak 63.81M) | Time:00:00.00 | Syncing object_000013
+Fra:1 Mem:63.84M (Peak 63.84M) | Time:00:00.00 | Syncing object_000014
+Fra:1 Mem:63.83M (Peak 63.84M) | Time:00:00.00 | Rendering 1 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.04 | Rendering 26 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.06 | Rendering 51 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.08 | Rendering 76 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.11 | Rendering 101 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.13 | Rendering 126 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.15 | Rendering 151 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.18 | Rendering 176 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.20 | Rendering 201 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.22 | Rendering 226 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.25 | Rendering 251 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.27 | Rendering 276 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.30 | Rendering 301 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.32 | Rendering 326 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.34 | Rendering 351 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.37 | Rendering 376 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.39 | Rendering 401 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.41 | Rendering 426 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.44 | Rendering 451 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.46 | Rendering 476 / 500 samples
+Fra:1 Mem:63.32M (Peak 63.84M) | Time:00:00.49 | Rendering 500 / 500 samples
+Fra:1 Mem:62.54M (Peak 65.07M) | Time:00:00.49 | Compositing
+Fra:1 Mem:62.54M (Peak 65.07M) | Time:00:00.49 | Compositing | Determining resolution
+Fra:1 Mem:62.54M (Peak 65.07M) | Time:00:00.49 | Compositing | Initializing execution
+Fra:1 Mem:64.60M (Peak 65.07M) | Time:00:00.50 | Compositing | Tile 1-1
+Fra:1 Mem:64.60M (Peak 65.07M) | Time:00:00.51 | Compositing | Tile 1-1
+Fra:1 Mem:64.54M (Peak 65.07M) | Time:00:00.51 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image3_camera0_light3_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image3_camera0_light3_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image3_camera0_light3_rot0_alb2.exr'
+ Time: 00:01.00 (Saving: 00:00.03)
+
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:82.74M (Peak 82.74M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:82.75M (Peak 86.56M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:82.76M (Peak 86.56M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:82.79M (Peak 86.58M) | Time:00:00.01 | Syncing object_000002
+Fra:1 Mem:82.82M (Peak 86.61M) | Time:00:00.02 | Syncing object_000003
+Fra:1 Mem:82.83M (Peak 86.61M) | Time:00:00.02 | Syncing object_000004
+Fra:1 Mem:82.84M (Peak 86.61M) | Time:00:00.02 | Syncing object_000005
+Fra:1 Mem:82.94M (Peak 86.61M) | Time:00:00.02 | Syncing object_000006
+Fra:1 Mem:83.03M (Peak 86.61M) | Time:00:00.02 | Syncing object_000007
+Fra:1 Mem:83.04M (Peak 86.61M) | Time:00:00.02 | Syncing object_000008
+Fra:1 Mem:83.08M (Peak 86.86M) | Time:00:00.03 | Syncing object_000009
+Fra:1 Mem:83.10M (Peak 86.86M) | Time:00:00.03 | Syncing object_000010
+Fra:1 Mem:83.20M (Peak 86.86M) | Time:00:00.03 | Syncing object_000011
+Fra:1 Mem:83.23M (Peak 86.86M) | Time:00:00.03 | Syncing object_000012
+Fra:1 Mem:83.36M (Peak 87.05M) | Time:00:00.03 | Syncing object_000013
+Fra:1 Mem:83.39M (Peak 87.05M) | Time:00:00.03 | Syncing object_000014
+Fra:1 Mem:83.38M (Peak 87.05M) | Time:00:00.03 | Rendering 1 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.07 | Rendering 26 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.10 | Rendering 51 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.12 | Rendering 76 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.14 | Rendering 101 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.17 | Rendering 126 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.22 | Rendering 176 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.29 | Rendering 251 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.34 | Rendering 301 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.37 | Rendering 326 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.39 | Rendering 351 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.42 | Rendering 376 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.44 | Rendering 401 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.47 | Rendering 426 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.49 | Rendering 451 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.52 | Rendering 476 / 500 samples
+Fra:1 Mem:82.88M (Peak 87.05M) | Time:00:00.54 | Rendering 500 / 500 samples
+Fra:1 Mem:82.10M (Peak 87.05M) | Time:00:00.55 | Compositing
+Fra:1 Mem:82.10M (Peak 87.05M) | Time:00:00.55 | Compositing | Determining resolution
+Fra:1 Mem:82.10M (Peak 87.05M) | Time:00:00.55 | Compositing | Initializing execution
+Fra:1 Mem:84.17M (Peak 87.05M) | Time:00:00.56 | Compositing | Tile 1-1
+Fra:1 Mem:84.17M (Peak 87.05M) | Time:00:00.56 | Compositing | Tile 1-1
+Fra:1 Mem:84.10M (Peak 87.05M) | Time:00:00.56 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image3_camera0_light1_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image3_camera0_light1_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image3_camera0_light1_rot0_alb3.exr'
+ Time: 00:00.61 (Saving: 00:00.00)
+
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:82.74M (Peak 82.74M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:82.75M (Peak 82.75M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:82.76M (Peak 82.76M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:82.77M (Peak 82.77M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:82.79M (Peak 82.79M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:82.82M (Peak 82.82M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:82.83M (Peak 82.83M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:82.84M (Peak 82.84M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:82.94M (Peak 82.94M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:83.03M (Peak 83.03M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:83.04M (Peak 83.04M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:83.08M (Peak 83.08M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:83.10M (Peak 83.10M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:83.20M (Peak 83.20M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:83.23M (Peak 83.23M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:83.36M (Peak 83.36M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:83.39M (Peak 83.39M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:83.38M (Peak 83.39M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.30 | Rendering 251 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.41 | Rendering 351 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.44 | Rendering 376 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.49 | Rendering 426 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.52 | Rendering 451 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.54 | Rendering 476 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.57 | Rendering 500 / 500 samples
+Fra:1 Mem:82.10M (Peak 84.63M) | Time:00:00.57 | Compositing
+Fra:1 Mem:82.10M (Peak 84.63M) | Time:00:00.57 | Compositing | Determining resolution
+Fra:1 Mem:82.10M (Peak 84.63M) | Time:00:00.57 | Compositing | Initializing execution
+Fra:1 Mem:84.17M (Peak 84.63M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:84.17M (Peak 84.63M) | Time:00:00.59 | Compositing | Tile 1-1
+Fra:1 Mem:84.10M (Peak 84.63M) | Time:00:00.59 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image3_camera0_light2_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image3_camera0_light2_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image3_camera0_light2_rot0_alb3.exr'
+ Time: 00:00.65 (Saving: 00:00.00)
+
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:82.73M (Peak 82.73M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:82.74M (Peak 82.74M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:82.75M (Peak 82.75M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:82.76M (Peak 82.76M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:82.77M (Peak 82.77M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:82.79M (Peak 82.79M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:82.82M (Peak 82.82M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:82.83M (Peak 82.83M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:82.84M (Peak 82.84M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:82.94M (Peak 82.94M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:83.03M (Peak 83.03M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:83.04M (Peak 83.04M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:83.08M (Peak 83.08M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:83.10M (Peak 83.10M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:83.20M (Peak 83.20M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:83.23M (Peak 83.23M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:83.36M (Peak 83.36M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:83.39M (Peak 83.39M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:83.38M (Peak 83.39M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.29 | Rendering 251 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.37 | Rendering 326 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.40 | Rendering 351 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.48 | Rendering 426 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.51 | Rendering 451 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.53 | Rendering 476 / 500 samples
+Fra:1 Mem:82.88M (Peak 83.39M) | Time:00:00.56 | Rendering 500 / 500 samples
+Fra:1 Mem:82.10M (Peak 84.63M) | Time:00:00.56 | Compositing
+Fra:1 Mem:82.10M (Peak 84.63M) | Time:00:00.56 | Compositing | Determining resolution
+Fra:1 Mem:82.10M (Peak 84.63M) | Time:00:00.56 | Compositing | Initializing execution
+Fra:1 Mem:84.17M (Peak 84.63M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:84.17M (Peak 84.63M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:84.10M (Peak 84.63M) | Time:00:00.58 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image3_camera0_light3_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image3_camera0_light3_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image3_camera0_light3_rot0_alb3.exr'
+ Time: 00:00.61 (Saving: 00:00.02)
+
+
+Blender quit
+Failed to open dir (No such file or directory): /localscratch/nabla.24494187.0/gvfs/
+Blender 3.6.0 (hash c7fc78b81ecb built 2023-06-27 08:23:50)
+Fra:1 Mem:51.17M (Peak 52.26M) | Time:00:00.15 | Syncing Light
+Fra:1 Mem:51.17M (Peak 52.26M) | Time:00:00.15 | Syncing LightTransform
+Fra:1 Mem:51.17M (Peak 52.26M) | Time:00:00.15 | Syncing Camera
+Fra:1 Mem:51.17M (Peak 52.26M) | Time:00:00.15 | Syncing CameraTransform
+Fra:1 Mem:51.17M (Peak 52.26M) | Time:00:00.15 | Syncing Floor
+Fra:1 Mem:51.24M (Peak 52.26M) | Time:00:00.17 | Syncing LeftWall
+Fra:1 Mem:51.25M (Peak 52.26M) | Time:00:00.17 | Syncing RightWall
+Fra:1 Mem:51.26M (Peak 52.26M) | Time:00:00.17 | Syncing object_000001
+Fra:1 Mem:51.27M (Peak 52.26M) | Time:00:00.17 | Syncing object_000002
+Fra:1 Mem:51.29M (Peak 52.26M) | Time:00:00.17 | Syncing object_000003
+Fra:1 Mem:51.35M (Peak 55.12M) | Time:00:00.25 | Syncing object_000004
+Fra:1 Mem:51.49M (Peak 55.16M) | Time:00:00.26 | Syncing object_000005
+Fra:1 Mem:51.64M (Peak 55.31M) | Time:00:00.27 | Syncing object_000006
+Fra:1 Mem:51.67M (Peak 55.31M) | Time:00:00.27 | Syncing object_000007
+Fra:1 Mem:51.69M (Peak 55.31M) | Time:00:00.27 | Syncing object_000008
+Fra:1 Mem:51.72M (Peak 55.31M) | Time:00:00.27 | Syncing object_000009
+Fra:1 Mem:51.76M (Peak 55.31M) | Time:00:00.29 | Syncing object_000010
+Fra:1 Mem:51.91M (Peak 55.58M) | Time:00:00.31 | Syncing object_000011
+Fra:1 Mem:51.93M (Peak 55.58M) | Time:00:00.31 | Syncing object_000012
+Fra:1 Mem:52.05M (Peak 55.58M) | Time:00:00.31 | Syncing object_000013
+Fra:1 Mem:52.08M (Peak 55.58M) | Time:00:00.31 | Syncing object_000014
+Fra:1 Mem:52.08M (Peak 55.90M) | Time:00:00.32 | Rendering 1 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.37 | Rendering 26 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.40 | Rendering 51 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.43 | Rendering 76 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.46 | Rendering 101 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.48 | Rendering 126 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.51 | Rendering 151 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.54 | Rendering 176 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.56 | Rendering 201 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.59 | Rendering 226 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.62 | Rendering 251 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.65 | Rendering 276 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.67 | Rendering 301 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.70 | Rendering 326 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.73 | Rendering 351 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.76 | Rendering 376 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.79 | Rendering 401 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.81 | Rendering 426 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.84 | Rendering 451 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.86 | Rendering 476 / 500 samples
+Fra:1 Mem:51.52M (Peak 55.90M) | Time:00:00.88 | Rendering 500 / 500 samples
+Fra:1 Mem:50.73M (Peak 55.90M) | Time:00:00.89 | Compositing
+Fra:1 Mem:50.73M (Peak 55.90M) | Time:00:00.89 | Compositing | Determining resolution
+Fra:1 Mem:50.73M (Peak 55.90M) | Time:00:00.89 | Compositing | Initializing execution
+Fra:1 Mem:52.80M (Peak 55.90M) | Time:00:00.90 | Compositing | Tile 1-1
+Fra:1 Mem:52.80M (Peak 55.90M) | Time:00:00.91 | Compositing | Tile 1-1
+Fra:1 Mem:52.73M (Peak 55.90M) | Time:00:00.91 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image4_camera0_light1_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image4_camera0_light1_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image4_camera0_light1_rot0_alb1.exr'
+ Time: 00:00.96 (Saving: 00:00.00)
+
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:51.38M (Peak 51.38M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:51.39M (Peak 51.39M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:51.40M (Peak 51.40M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:51.41M (Peak 51.41M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:51.43M (Peak 51.43M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:51.47M (Peak 51.47M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:51.60M (Peak 51.60M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:51.72M (Peak 51.72M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:51.74M (Peak 51.74M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:51.77M (Peak 51.77M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:51.79M (Peak 51.79M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:51.81M (Peak 51.81M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:51.94M (Peak 51.94M) | Time:00:00.00 | Syncing object_000011
+Fra:1 Mem:51.96M (Peak 51.96M) | Time:00:00.00 | Syncing object_000012
+Fra:1 Mem:52.06M (Peak 52.06M) | Time:00:00.00 | Syncing object_000013
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.00 | Syncing object_000014
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.04 | Rendering 26 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.07 | Rendering 51 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.10 | Rendering 76 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.12 | Rendering 101 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.15 | Rendering 126 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.17 | Rendering 151 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.20 | Rendering 176 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.23 | Rendering 201 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.25 | Rendering 226 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.28 | Rendering 251 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.31 | Rendering 276 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.33 | Rendering 301 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.36 | Rendering 326 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.38 | Rendering 351 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.41 | Rendering 376 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.43 | Rendering 401 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.46 | Rendering 426 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.48 | Rendering 451 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.51 | Rendering 476 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.53 | Rendering 500 / 500 samples
+Fra:1 Mem:50.73M (Peak 53.27M) | Time:00:00.54 | Compositing
+Fra:1 Mem:50.73M (Peak 53.27M) | Time:00:00.54 | Compositing | Determining resolution
+Fra:1 Mem:50.73M (Peak 53.27M) | Time:00:00.54 | Compositing | Initializing execution
+Fra:1 Mem:52.80M (Peak 53.27M) | Time:00:00.55 | Compositing | Tile 1-1
+Fra:1 Mem:52.80M (Peak 53.27M) | Time:00:00.55 | Compositing | Tile 1-1
+Fra:1 Mem:52.73M (Peak 53.27M) | Time:00:00.55 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image4_camera0_light2_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image4_camera0_light2_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image4_camera0_light2_rot0_alb1.exr'
+ Time: 00:00.59 (Saving: 00:00.00)
+
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:51.37M (Peak 51.37M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:51.38M (Peak 51.38M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:51.39M (Peak 51.39M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:51.40M (Peak 51.40M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:51.41M (Peak 51.41M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:51.43M (Peak 51.43M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:51.47M (Peak 51.47M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:51.60M (Peak 51.60M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:51.72M (Peak 51.72M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:51.74M (Peak 51.74M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:51.77M (Peak 51.77M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:51.79M (Peak 51.79M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:51.81M (Peak 51.81M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:51.94M (Peak 51.94M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:51.96M (Peak 51.96M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:52.06M (Peak 52.06M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:52.09M (Peak 52.09M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.07 | Rendering 51 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.10 | Rendering 76 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.15 | Rendering 126 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.18 | Rendering 151 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.20 | Rendering 176 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.23 | Rendering 201 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.25 | Rendering 226 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.28 | Rendering 251 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.31 | Rendering 276 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.33 | Rendering 301 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.36 | Rendering 326 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.38 | Rendering 351 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.41 | Rendering 376 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.44 | Rendering 401 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.46 | Rendering 426 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.49 | Rendering 451 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.52 | Rendering 476 / 500 samples
+Fra:1 Mem:51.52M (Peak 52.09M) | Time:00:00.54 | Rendering 500 / 500 samples
+Fra:1 Mem:50.73M (Peak 53.27M) | Time:00:00.55 | Compositing
+Fra:1 Mem:50.73M (Peak 53.27M) | Time:00:00.55 | Compositing | Determining resolution
+Fra:1 Mem:50.73M (Peak 53.27M) | Time:00:00.55 | Compositing | Initializing execution
+Fra:1 Mem:52.80M (Peak 53.27M) | Time:00:00.55 | Compositing | Tile 1-1
+Fra:1 Mem:52.80M (Peak 53.27M) | Time:00:00.56 | Compositing | Tile 1-1
+Fra:1 Mem:52.73M (Peak 53.27M) | Time:00:00.56 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image4_camera0_light3_rot0_alb1_ref0001.exr
+Saved: dataset_test_eevee/image4_camera0_light3_rot0_alb1_nrm0001.exr
+Saved: 'dataset_test_eevee/image4_camera0_light3_rot0_alb1.exr'
+ Time: 00:00.60 (Saving: 00:00.00)
+
+Fra:1 Mem:74.67M (Peak 74.67M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:74.67M (Peak 74.67M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:74.67M (Peak 74.67M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:74.67M (Peak 74.67M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:74.69M (Peak 78.50M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:74.70M (Peak 78.50M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:74.71M (Peak 78.50M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:74.72M (Peak 78.52M) | Time:00:00.01 | Syncing object_000002
+Fra:1 Mem:74.75M (Peak 78.54M) | Time:00:00.02 | Syncing object_000003
+Fra:1 Mem:74.78M (Peak 78.56M) | Time:00:00.03 | Syncing object_000004
+Fra:1 Mem:74.91M (Peak 78.56M) | Time:00:00.03 | Syncing object_000005
+Fra:1 Mem:75.01M (Peak 78.56M) | Time:00:00.03 | Syncing object_000006
+Fra:1 Mem:75.03M (Peak 78.56M) | Time:00:00.03 | Syncing object_000007
+Fra:1 Mem:75.05M (Peak 78.56M) | Time:00:00.03 | Syncing object_000008
+Fra:1 Mem:75.07M (Peak 78.56M) | Time:00:00.03 | Syncing object_000009
+Fra:1 Mem:75.10M (Peak 78.89M) | Time:00:00.03 | Syncing object_000010
+Fra:1 Mem:75.20M (Peak 78.89M) | Time:00:00.03 | Syncing object_000011
+Fra:1 Mem:75.22M (Peak 79.01M) | Time:00:00.04 | Syncing object_000012
+Fra:1 Mem:75.32M (Peak 79.01M) | Time:00:00.04 | Syncing object_000013
+Fra:1 Mem:75.36M (Peak 79.01M) | Time:00:00.04 | Syncing object_000014
+Fra:1 Mem:75.35M (Peak 79.01M) | Time:00:00.04 | Rendering 1 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.08 | Rendering 26 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.10 | Rendering 51 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.13 | Rendering 76 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.15 | Rendering 101 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.18 | Rendering 126 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.20 | Rendering 151 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.23 | Rendering 176 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.25 | Rendering 201 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.28 | Rendering 226 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.30 | Rendering 251 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.33 | Rendering 276 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.40 | Rendering 351 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.45 | Rendering 401 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.48 | Rendering 426 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.50 | Rendering 451 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.53 | Rendering 476 / 500 samples
+Fra:1 Mem:74.83M (Peak 79.01M) | Time:00:00.55 | Rendering 500 / 500 samples
+Fra:1 Mem:74.04M (Peak 79.01M) | Time:00:00.56 | Compositing
+Fra:1 Mem:74.04M (Peak 79.01M) | Time:00:00.56 | Compositing | Determining resolution
+Fra:1 Mem:74.04M (Peak 79.01M) | Time:00:00.56 | Compositing | Initializing execution
+Fra:1 Mem:76.11M (Peak 79.01M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:76.11M (Peak 79.01M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:76.04M (Peak 79.01M) | Time:00:00.58 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image4_camera0_light1_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image4_camera0_light1_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image4_camera0_light1_rot0_alb2.exr'
+ Time: 00:00.62 (Saving: 00:00.00)
+
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:74.69M (Peak 74.69M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:74.70M (Peak 74.70M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:74.71M (Peak 74.71M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:74.72M (Peak 74.72M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:74.75M (Peak 74.75M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:74.78M (Peak 74.78M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:74.91M (Peak 74.91M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:75.01M (Peak 75.01M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:75.03M (Peak 75.03M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:75.05M (Peak 75.05M) | Time:00:00.01 | Syncing object_000008
+Fra:1 Mem:75.07M (Peak 75.07M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:75.10M (Peak 75.10M) | Time:00:00.01 | Syncing object_000010
+Fra:1 Mem:75.20M (Peak 75.20M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:75.22M (Peak 75.22M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:75.32M (Peak 75.32M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:75.36M (Peak 75.36M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:75.35M (Peak 75.36M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.11 | Rendering 76 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.19 | Rendering 151 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.29 | Rendering 251 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.40 | Rendering 351 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.48 | Rendering 426 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.51 | Rendering 451 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.54 | Rendering 476 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.56 | Rendering 500 / 500 samples
+Fra:1 Mem:74.04M (Peak 76.58M) | Time:00:00.57 | Compositing
+Fra:1 Mem:74.04M (Peak 76.58M) | Time:00:00.57 | Compositing | Determining resolution
+Fra:1 Mem:74.04M (Peak 76.58M) | Time:00:00.57 | Compositing | Initializing execution
+Fra:1 Mem:76.11M (Peak 76.58M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:76.11M (Peak 76.58M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:76.04M (Peak 76.58M) | Time:00:00.58 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image4_camera0_light2_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image4_camera0_light2_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image4_camera0_light2_rot0_alb2.exr'
+ Time: 00:00.62 (Saving: 00:00.02)
+
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:74.68M (Peak 74.68M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:74.69M (Peak 74.69M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:74.70M (Peak 74.70M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:74.71M (Peak 74.71M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:74.72M (Peak 74.72M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:74.75M (Peak 74.75M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:74.78M (Peak 74.78M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:74.91M (Peak 74.91M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:75.01M (Peak 75.01M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:75.03M (Peak 75.03M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:75.05M (Peak 75.05M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:75.07M (Peak 75.07M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:75.10M (Peak 75.10M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:75.20M (Peak 75.20M) | Time:00:00.00 | Syncing object_000011
+Fra:1 Mem:75.22M (Peak 75.22M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:75.32M (Peak 75.32M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:75.36M (Peak 75.36M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:75.35M (Peak 75.36M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.07 | Rendering 51 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.10 | Rendering 76 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.15 | Rendering 126 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.18 | Rendering 151 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.23 | Rendering 201 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.26 | Rendering 226 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.28 | Rendering 251 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.31 | Rendering 276 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.34 | Rendering 301 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.37 | Rendering 326 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.39 | Rendering 351 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.42 | Rendering 376 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.45 | Rendering 401 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.47 | Rendering 426 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.50 | Rendering 451 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.52 | Rendering 476 / 500 samples
+Fra:1 Mem:74.83M (Peak 75.36M) | Time:00:00.55 | Rendering 500 / 500 samples
+Fra:1 Mem:74.04M (Peak 76.58M) | Time:00:00.55 | Compositing
+Fra:1 Mem:74.04M (Peak 76.58M) | Time:00:00.55 | Compositing | Determining resolution
+Fra:1 Mem:74.04M (Peak 76.58M) | Time:00:00.55 | Compositing | Initializing execution
+Fra:1 Mem:76.11M (Peak 76.58M) | Time:00:00.56 | Compositing | Tile 1-1
+Fra:1 Mem:76.11M (Peak 76.58M) | Time:00:00.57 | Compositing | Tile 1-1
+Fra:1 Mem:76.04M (Peak 76.58M) | Time:00:00.57 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image4_camera0_light3_rot0_alb2_ref0001.exr
+Saved: dataset_test_eevee/image4_camera0_light3_rot0_alb2_nrm0001.exr
+Saved: 'dataset_test_eevee/image4_camera0_light3_rot0_alb2.exr'
+ Time: 00:00.81 (Saving: 00:00.00)
+
+Fra:1 Mem:89.97M (Peak 89.97M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:89.97M (Peak 89.97M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:89.97M (Peak 89.97M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:89.97M (Peak 89.97M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:89.98M (Peak 89.98M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:90.00M (Peak 90.00M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:90.01M (Peak 90.01M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:90.02M (Peak 90.02M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:90.04M (Peak 90.04M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:90.08M (Peak 93.86M) | Time:00:00.01 | Syncing object_000004
+Fra:1 Mem:90.17M (Peak 93.86M) | Time:00:00.01 | Syncing object_000005
+Fra:1 Mem:90.27M (Peak 93.86M) | Time:00:00.01 | Syncing object_000006
+Fra:1 Mem:90.29M (Peak 93.86M) | Time:00:00.01 | Syncing object_000007
+Fra:1 Mem:90.31M (Peak 93.86M) | Time:00:00.01 | Syncing object_000008
+Fra:1 Mem:90.34M (Peak 94.13M) | Time:00:00.01 | Syncing object_000009
+Fra:1 Mem:90.37M (Peak 94.16M) | Time:00:00.02 | Syncing object_000010
+Fra:1 Mem:90.46M (Peak 94.16M) | Time:00:00.02 | Syncing object_000011
+Fra:1 Mem:90.50M (Peak 94.16M) | Time:00:00.04 | Syncing object_000012
+Fra:1 Mem:90.60M (Peak 94.16M) | Time:00:00.04 | Syncing object_000013
+Fra:1 Mem:90.63M (Peak 94.16M) | Time:00:00.04 | Syncing object_000014
+Fra:1 Mem:90.63M (Peak 94.44M) | Time:00:00.05 | Rendering 1 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.09 | Rendering 26 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.12 | Rendering 51 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.14 | Rendering 76 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.17 | Rendering 101 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.20 | Rendering 126 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.22 | Rendering 151 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.25 | Rendering 176 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.28 | Rendering 201 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.31 | Rendering 226 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.33 | Rendering 251 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.36 | Rendering 276 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.39 | Rendering 301 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.41 | Rendering 326 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.44 | Rendering 351 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.47 | Rendering 376 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.49 | Rendering 401 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.52 | Rendering 426 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.55 | Rendering 451 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.57 | Rendering 476 / 500 samples
+Fra:1 Mem:90.13M (Peak 94.44M) | Time:00:00.60 | Rendering 500 / 500 samples
+Fra:1 Mem:89.35M (Peak 94.44M) | Time:00:00.60 | Compositing
+Fra:1 Mem:89.35M (Peak 94.44M) | Time:00:00.60 | Compositing | Determining resolution
+Fra:1 Mem:89.35M (Peak 94.44M) | Time:00:00.60 | Compositing | Initializing execution
+Fra:1 Mem:91.42M (Peak 94.44M) | Time:00:00.61 | Compositing | Tile 1-1
+Fra:1 Mem:91.42M (Peak 94.44M) | Time:00:00.62 | Compositing | Tile 1-1
+Fra:1 Mem:91.35M (Peak 94.44M) | Time:00:00.62 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image4_camera0_light1_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image4_camera0_light1_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image4_camera0_light1_rot0_alb3.exr'
+ Time: 00:00.63 (Saving: 00:00.00)
+
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:90.00M (Peak 90.00M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:90.01M (Peak 90.01M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:90.02M (Peak 90.02M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:90.03M (Peak 90.03M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:90.05M (Peak 90.05M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:90.09M (Peak 90.09M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:90.18M (Peak 90.18M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:90.28M (Peak 90.28M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:90.30M (Peak 90.30M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:90.32M (Peak 90.32M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:90.35M (Peak 90.35M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:90.38M (Peak 90.38M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:90.47M (Peak 90.47M) | Time:00:00.00 | Syncing object_000011
+Fra:1 Mem:90.50M (Peak 90.50M) | Time:00:00.00 | Syncing object_000012
+Fra:1 Mem:90.60M (Peak 90.60M) | Time:00:00.00 | Syncing object_000013
+Fra:1 Mem:90.63M (Peak 90.63M) | Time:00:00.00 | Syncing object_000014
+Fra:1 Mem:90.63M (Peak 90.63M) | Time:00:00.00 | Rendering 1 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.04 | Rendering 26 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.07 | Rendering 51 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.09 | Rendering 76 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.12 | Rendering 101 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.14 | Rendering 126 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.17 | Rendering 151 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.19 | Rendering 176 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.22 | Rendering 201 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.24 | Rendering 226 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.27 | Rendering 251 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.30 | Rendering 276 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.32 | Rendering 301 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.35 | Rendering 326 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.38 | Rendering 351 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.40 | Rendering 376 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.43 | Rendering 401 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.45 | Rendering 426 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.48 | Rendering 451 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.51 | Rendering 476 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.53 | Rendering 500 / 500 samples
+Fra:1 Mem:89.35M (Peak 91.88M) | Time:00:00.54 | Compositing
+Fra:1 Mem:89.35M (Peak 91.88M) | Time:00:00.54 | Compositing | Determining resolution
+Fra:1 Mem:89.35M (Peak 91.88M) | Time:00:00.54 | Compositing | Initializing execution
+Fra:1 Mem:91.42M (Peak 91.88M) | Time:00:00.55 | Compositing | Tile 1-1
+Fra:1 Mem:91.42M (Peak 91.88M) | Time:00:00.55 | Compositing | Tile 1-1
+Fra:1 Mem:91.35M (Peak 91.88M) | Time:00:00.55 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image4_camera0_light2_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image4_camera0_light2_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image4_camera0_light2_rot0_alb3.exr'
+ Time: 00:00.58 (Saving: 00:00.00)
+
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing LightTransform
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing CameraTransform
+Fra:1 Mem:89.99M (Peak 89.99M) | Time:00:00.00 | Syncing Floor
+Fra:1 Mem:90.00M (Peak 90.00M) | Time:00:00.00 | Syncing LeftWall
+Fra:1 Mem:90.01M (Peak 90.01M) | Time:00:00.00 | Syncing RightWall
+Fra:1 Mem:90.02M (Peak 90.02M) | Time:00:00.00 | Syncing object_000001
+Fra:1 Mem:90.03M (Peak 90.03M) | Time:00:00.00 | Syncing object_000002
+Fra:1 Mem:90.05M (Peak 90.05M) | Time:00:00.00 | Syncing object_000003
+Fra:1 Mem:90.09M (Peak 90.09M) | Time:00:00.00 | Syncing object_000004
+Fra:1 Mem:90.18M (Peak 90.18M) | Time:00:00.00 | Syncing object_000005
+Fra:1 Mem:90.28M (Peak 90.28M) | Time:00:00.00 | Syncing object_000006
+Fra:1 Mem:90.30M (Peak 90.30M) | Time:00:00.00 | Syncing object_000007
+Fra:1 Mem:90.32M (Peak 90.32M) | Time:00:00.00 | Syncing object_000008
+Fra:1 Mem:90.35M (Peak 90.35M) | Time:00:00.00 | Syncing object_000009
+Fra:1 Mem:90.38M (Peak 90.38M) | Time:00:00.00 | Syncing object_000010
+Fra:1 Mem:90.47M (Peak 90.47M) | Time:00:00.01 | Syncing object_000011
+Fra:1 Mem:90.50M (Peak 90.50M) | Time:00:00.01 | Syncing object_000012
+Fra:1 Mem:90.60M (Peak 90.60M) | Time:00:00.01 | Syncing object_000013
+Fra:1 Mem:90.63M (Peak 90.63M) | Time:00:00.01 | Syncing object_000014
+Fra:1 Mem:90.63M (Peak 90.63M) | Time:00:00.01 | Rendering 1 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.05 | Rendering 26 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.08 | Rendering 51 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.10 | Rendering 76 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.13 | Rendering 101 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.16 | Rendering 126 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.18 | Rendering 151 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.21 | Rendering 176 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.24 | Rendering 201 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.27 | Rendering 226 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.29 | Rendering 251 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.32 | Rendering 276 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.35 | Rendering 301 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.38 | Rendering 326 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.40 | Rendering 351 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.43 | Rendering 376 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.46 | Rendering 401 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.49 | Rendering 426 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.51 | Rendering 451 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.54 | Rendering 476 / 500 samples
+Fra:1 Mem:90.13M (Peak 90.63M) | Time:00:00.56 | Rendering 500 / 500 samples
+Fra:1 Mem:89.35M (Peak 91.88M) | Time:00:00.57 | Compositing
+Fra:1 Mem:89.35M (Peak 91.88M) | Time:00:00.57 | Compositing | Determining resolution
+Fra:1 Mem:89.35M (Peak 91.88M) | Time:00:00.57 | Compositing | Initializing execution
+Fra:1 Mem:91.42M (Peak 91.88M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:91.42M (Peak 91.88M) | Time:00:00.58 | Compositing | Tile 1-1
+Fra:1 Mem:91.35M (Peak 91.88M) | Time:00:00.59 | Compositing | De-initializing execution
+Saved: dataset_test_eevee/image4_camera0_light3_rot0_alb3_ref0001.exr
+Saved: dataset_test_eevee/image4_camera0_light3_rot0_alb3_nrm0001.exr
+Saved: 'dataset_test_eevee/image4_camera0_light3_rot0_alb3.exr'
+ Time: 00:00.64 (Saving: 00:00.00)
+
+
+Blender quit

@@ -89,9 +89,9 @@ for n in range(0, opt.level):
 os.system('mkdir -p {0}'.format(outfilename))
 
 if opt.testset == 'TwoCubesBlendereevee':
-    dataRoot = 'testsets/images_cubespattern_eevee'
+    dataRoot = 'testsets/images_eevee'
 elif opt.testset == 'TwoCubesBlender128':
-    dataRoot = 'testsets/images_cubespattern_1282p9'
+    dataRoot = 'testsets/images_128'
 
 
 with open(os.path.join(dataRoot, opt.imList), 'r') as imIdIn:
