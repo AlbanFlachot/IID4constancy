@@ -45,12 +45,4 @@ For the last level of evaluation and most figures, look at the jupyter notebooks
 
 Note: The LiNet directory essentially consists in code written by Zhengqin Li and adapted (simplified) for our purpose. The original code can be found here: https://github.com/lzqsd/InverseRenderingOfIndoorScene. Our U-net architecture is derived from this code.
 
-Reference:
-@inproceedings{li2020inverse,
-title={Inverse rendering for complex indoor scenes: Shape, spatially-varying lighting and svbrdf from a single image},
-author={Li, Zhengqin and Shafiei, Mohammad and Ramamoorthi, Ravi and Sunkavalli, Kalyan and Chandraker, Manmohan},
-booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-pages={2475--2484},
-year={2020}
-}
 
