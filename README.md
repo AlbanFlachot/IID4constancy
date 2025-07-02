@@ -10,7 +10,8 @@ The directory is organized in two sub-directories:
 We also provide links to download the:
  - testsets: [LINK](https://www.dropbox.com/scl/fo/yb360ltk2llhyzvhzu7bj/ALmepfhRmdUinTKEZ5rrRKk?rlkey=matwof0s7ew9ei9udk7l8raxb&st=0zz49pim&dl=0)
  - and the pretrained models: [LINK](https://www.dropbox.com/scl/fo/fxl7486bp8b2py5nbv3lw/AKRNDf1pVEOJu45nl0JMt7s?rlkey=ftgr9y2h7hndjw1xifo5jzh8n&st=l7paaw7s&dl=0)
-Note that we don't provide the training sets here --> You will have to generate them yourself, or send us an email directly at flachot.alban@gmail.com
+
+ - Note that we don't provide the training sets here --> You will have to generate them yourself, or send us an email directly at flachot.alban@gmail.com
 
 ## RENDERING
 
@@ -43,6 +44,7 @@ To train, test and run the first level of analysis, look at 'MODELING_and_ANALYS
 For the last level of evaluation and most figures, look at the jupyter notebooks.
 
 Note: The LiNet directory essentially consists in code written by Zhengqin Li and adapted (simplified) for our purpose. The original code can be found here: https://github.com/lzqsd/InverseRenderingOfIndoorScene. Our U-net architecture is derived from this code.
+
 Reference:
 @inproceedings{li2020inverse,
 title={Inverse rendering for complex indoor scenes: Shape, spatially-varying lighting and svbrdf from a single image},
