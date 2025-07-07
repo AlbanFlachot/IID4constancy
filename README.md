@@ -11,7 +11,7 @@ We also provide links to download the:
  - testsets: [LINK](https://www.dropbox.com/scl/fo/yb360ltk2llhyzvhzu7bj/ALmepfhRmdUinTKEZ5rrRKk?rlkey=matwof0s7ew9ei9udk7l8raxb&st=0zz49pim&dl=0)
  - and the pretrained models: [LINK](https://www.dropbox.com/scl/fo/fxl7486bp8b2py5nbv3lw/AKRNDf1pVEOJu45nl0JMt7s?rlkey=ftgr9y2h7hndjw1xifo5jzh8n&st=l7paaw7s&dl=0)
 
- - Note that we don't provide the training sets here --> You will have to generate them yourself, or send us an email directly at flachot.alban@gmail.com
+ - Note that we don't provide the training sets for now. We will make it available at once the paper is accepted.
 
 ## RENDERING
 
