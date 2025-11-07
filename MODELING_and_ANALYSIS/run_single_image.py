@@ -44,7 +44,7 @@ opt.gpuId = opt.deviceIds[0]
 
 nepochs = [opt.nepoch0]
 
-
+print(opt.cuda)
 opt.seed = 0
 print("Random Seed: ", opt.seed)
 random.seed(opt.seed)

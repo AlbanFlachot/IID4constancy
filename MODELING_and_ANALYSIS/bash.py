@@ -8,13 +8,13 @@ import subprocess
 import shlex
 import os
 
-from numpy.distutils.system_info import triplet
+
 
 ### Command line to run 1 image through the model and save the prediction in output
 
 imagep = 'example.exr'
 arch = 'AlbanNetsupeeveepatterns'
-command = f"python3 run_single_image.py --gamma 0 --arch {arch} --cuda --image {imagep} --checkpointdir checkpoints/sup_1_eeveepatterns --level 1 --nepoch0 57 --nb_channels=1"
+command = f"python3 run_single_image.py --gamma 0 --arch {arch} --image {imagep} --checkpointdir checkpoints/sup_1_eeveepatterns --level 1 --nepoch0 57 --nb_channels=1"
 args = shlex.split(command)
 subprocess.call(args)
 

@@ -2,8 +2,6 @@ import models
 import torch
 import cv2
 import numpy as np
-#import YuSmith.lib.irnet as irnet
-#import YuSmith.lib.torch_util as tu
 import os
 from lib_alban.utils_analyse import load_and_process, load_and_process_exr, load_and_process_illusions
 
@@ -27,7 +25,7 @@ class AlbanNet:
 
     def __init__(self, checkpointdir='check_cascade0_w%d_h%d', epoch=35, imWidth0=256, imHeight0=256, cuda=True, gpuID=0,
                  envRow=256, envCol=256, gamma=False, nb_channels = 1):
-        self.rootdir = 'AlbanNet/'
+        self.rootdir = './'
         if checkpointdir is None:
             self.xp0 = self.rootdir + 'check_cascade0_w%d_h%d' % (imWidth0, imHeight0)
         else:

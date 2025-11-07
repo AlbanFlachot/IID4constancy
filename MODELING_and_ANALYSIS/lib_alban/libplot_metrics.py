@@ -108,7 +108,7 @@ def plot_n_analyse_stats(illumref, illumtest, MATCHES,  list_labels_ref, rref, c
     subs[0].set_title('Thouless')
     sns.boxplot(ax=subs[0], data=dat, palette=colors_ref, linewidth=3, width=0.85, fliersize=10)
     dat = STATS_fit['origin']
-    subs[1].set_title('$\Delta$0')
+    subs[1].set_title("$\Delta$0")
     sns.boxplot(ax=subs[1], data=dat, palette=colors_ref, linewidth=3, width=0.85, fliersize=10)
     dat = STATS_fit['linearity']
     subs[2].set_title('Linearity')
@@ -197,7 +197,7 @@ def plot_n_analyse_stats_one(illumref, illumtest, MATCHES,  list_labels_ref, rre
     subs[0].set_title('Thouless')
     sns.boxplot(ax=subs[0], data=dat, palette=colors_ref, linewidth=3, width=0.85, fliersize=10)
     dat = STATS_fit['origin']
-    subs[1].set_title('$\Delta$0')
+    subs[1].set_title("$\Delta$0")
     sns.boxplot(ax=subs[1], data=dat, palette=colors_ref, linewidth=3, width=0.85, fliersize=10)
     dat = STATS_fit['linearity']
     subs[2].set_title('Linearity')
@@ -270,6 +270,7 @@ def plot_linReg(illumref, illumtest, MATCHES, list_labels_ref, rref, xpname='', 
 
 
 def plot_conditions(illumref, illumtest, MATCHES, list_labels_ref, rref, colors_ref, conditions, xpname='', cube = False):
+    #plt.gca().set_facecolor('white')
     ### PLOTS and stats
     instance = xpname.split('_')[1]
     STATS_fit = {}
@@ -317,7 +318,7 @@ def plot_conditions(illumref, illumtest, MATCHES, list_labels_ref, rref, colors_
     subs[0].set_title('Thouless')
     sns.boxplot(ax=subs[0], data=dat, palette=colors_ref, linewidth=3, width=0.85, fliersize=10)
     dat = pd.DataFrame.from_dict(STATS_fit['origin'])
-    subs[1].set_title('$\Delta$0')
+    subs[1].set_title("$\Delta$0")
     sns.boxplot(ax=subs[1], data=dat, palette=colors_ref, linewidth=3, width=0.85, fliersize=10)
     dat = pd.DataFrame.from_dict(STATS_fit['linearity'])
     subs[2].set_title('Linearity')
@@ -364,10 +365,12 @@ def plot_conditions(illumref, illumtest, MATCHES, list_labels_ref, rref, colors_
         labelsTicks[j] = '%s' % str(conditions_tick[j])
     subs.set_xticklabels(labelsTicks, fontsize=17)
     plt.ylabel('Thouless ratio', fontsize=17)
-    plt.ylim((-0.05, 1.05))
+    plt.ylim((-0.1, 1.1))
     plt.xlim(0.8, len(conditions) + 0.2)
     plt.tight_layout()
     plt.show()
+    #subs.grid(False)
+    subs.set_facecolor('white')
     print(f'figures/{instance}/Curves_conditions_{xpname}.png')
     fig.savefig(f'figures/{instance}/Curves_conditions_{xpname}.png')
     plt.close()

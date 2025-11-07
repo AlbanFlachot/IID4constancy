@@ -61,7 +61,7 @@ opt.gpuId = opt.deviceIds[0]
 
 nepochs = [opt.nepoch0]
 
-
+print(opt.cuda)
 os.system('mkdir {0}'.format(opt.testRoot))
 
 opt.seed = 0

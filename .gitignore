@@ -8,5 +8,7 @@
 
 # Directories
 **/__pycache__/
-venv
-MODELING_and_ANALYSIS/testsets
+venv/
+.venv/
+MODELING_and_ANALYSIS/testsets/
+MODELING_and_ANALYSIS/checkpoints/
